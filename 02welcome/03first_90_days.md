@@ -16,5 +16,5 @@ After 3 months working with the team, we'll have another check-in. This review w
 
 ---
 [Next page](04annual_review.md)  
-[Previous page](02first_week.md.md)  
+[Previous page](02first_week.md)  
 [Table of Contents](../README.md#table-of-contents)
