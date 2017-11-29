@@ -16,6 +16,6 @@ Our distributed nature gives you lots of flexibility for traveling and choosing 
 If you are a U.S. citizen and you're thinking of moving abroad for a period longer than 120 days in any country other than Denmark, you should be aware that we will most likely not be able to continue to employ you. While we would love to make all your worldly dreams come true in that regard, the IRS in the United States has cracked down severely on U.S. companies with contractors in other countries. Because the risk of contract audit is so high in the U.S., Lullabot Education would have to pay a substantial amount of money every year to set up a foreign business entity and make you an official employee in another country. Since long-term or permanent employment abroad is not simple, please contact the CEO to discuss options about keeping your job before selling the farm.
 
 ---
-[Next page](03first_90_days.md)  
+[Next page](02first_week.md)  
 [Previous page](01distributed.md)  
 [Table of Contents](../README.md#table-of-contents)
