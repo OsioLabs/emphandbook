@@ -15,6 +15,6 @@ Once you are 90 days in, we expect that you will be well settled into your routi
 After 3 months working with the team, we'll have another check-in. This review will take a look at your next 6–12 months. What are your strengths and weaknesses within the context of the team, what gets you excited, how do you want to kick ass, etc.?
 
 ---
-[Next page](02first_week.md)  
-[Previous page](04annual_review.md)  
+[Next page](04annual_review.md)  
+[Previous page](02first_week.md.md)  
 [Table of Contents](../README.md#table-of-contents)
