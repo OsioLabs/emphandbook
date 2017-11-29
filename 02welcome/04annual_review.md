@@ -11,6 +11,6 @@ The review covers 4 main questions, and then allows for deeper discussion on any
 If you feel that those questions aren't touching on the things you'd really like to discuss, you have the opportunity to figure out the main topics for the review with the CEO prior to the meeting.
 
 ---
-[Next page](03first_90_days.md)  
-[Previous page](05setting_goals.md)  
+[Next page](05setting_goals.md)  
+[Previous page](03first_90_days.md)  
 [Table of Contents](../README.md#table-of-contents)
