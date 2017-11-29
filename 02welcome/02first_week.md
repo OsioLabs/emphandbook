@@ -11,6 +11,6 @@ We try to spread the information overload throughout the week. You'll be introdu
 When you start, you'll be assigned a buddy on the team. We call this person your Lullabuddy. You should feel free to ask this person any and all questions you may have—even the "dumb" ones! They'll check in with you periodically for your first month at Lullabot Education. This person is here to make you feel comfortable and less confused as you start. Seriously... ask them anything. "How do you people keep up with all this email?" "Is it okay if I take a walk while I'm on the team call?" "What's up with all of the Taylor Swift references?" The more you can understand about the company and your coworkers, the better you'll be at your job.
 
 ---
-[Next page](01distributed.md)  
-[Previous page](03first_week.md)  
+[Next page](03first_90_days.md)  
+[Previous page](01distributed.md)  
 [Table of Contents](../README.md#table-of-contents)
