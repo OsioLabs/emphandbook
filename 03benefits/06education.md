@@ -10,3 +10,8 @@ Eligible employees may be reimbursed for qualifying educational expenses as foll
 - Total combined reimbursement of $1,500 per calendar year for all educational assistance received under this program.
 
 If you wish to travel for educational purposes, see the Travel Budgets section of this handbook.
+
+---
+[Next page](05tech_stipend.md)  
+[Previous page](07travel_budget.md)  
+[Table of Contents](../README.md#table-of-contents)

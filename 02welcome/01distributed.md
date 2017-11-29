@@ -14,3 +14,8 @@ All that said, it's pretty awesome to be able to roll out of bed and work in you
 Our distributed nature gives you lots of flexibility for traveling and choosing where you live. If you want to travel the world, we fully support that, but you need to be aware of certain restrictions that could affect your employment status. Our U.S. employment provider Insperity's travel policy states, "In order for Insperity to continue to co-employ an employee who travels internationally for an extended time, the employee’s international travel cannot exceed 120 days to one country in a rolling 12-month period." This is to protect both Insperity and Lullabot Education from becoming subject to tax and labor laws of other countries, which we are not qualified or prepared to do. 
 
 If you are a U.S. citizen and you're thinking of moving abroad for a period longer than 120 days in any country other than Denmark, you should be aware that we will most likely not be able to continue to employ you. While we would love to make all your worldly dreams come true in that regard, the IRS in the United States has cracked down severely on U.S. companies with contractors in other countries. Because the risk of contract audit is so high in the U.S., Lullabot Education would have to pay a substantial amount of money every year to set up a foreign business entity and make you an official employee in another country. Since long-term or permanent employment abroad is not simple, please contact the CEO to discuss options about keeping your job before selling the farm.
+
+---
+[Next page](02first_week.md)  
+[Previous page](01distributed.md)  
+[Table of Contents](../README.md#table-of-contents)

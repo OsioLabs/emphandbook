@@ -6,3 +6,8 @@ We strongly encourage the reporting of all instances of discrimination, harassme
 After receiving a complaint, we may hold a meeting with the employee and any other individuals who may assist in the investigation or resolution of the issue. All discussions related to the grievance will be limited to those involved with, and who can assist with, resolving the issue. Any reported allegations of harassment or discrimination will be investigated promptly, thoroughly, and impartially. To the maximum extent possible, confidentiality will be maintained throughout the investigatory process. 
 
 Lullabot Education expressly prohibits retaliation against any individual who reports discrimination or harassment, or assists in investigating such charges. Any form of retaliation is considered a direct violation of this policy and, like discrimination or harassment itself, will be subject to disciplinary action, up to and including termination of employment.
+
+---
+[Next page](04disciplinary.md)  
+[Previous page](02harassment.md)  
+[Table of Contents](../README.md#table-of-contents)

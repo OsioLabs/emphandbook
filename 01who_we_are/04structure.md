@@ -22,3 +22,8 @@ We use a service called ZenDesk, which provides a support management system, whe
 
 ### Business
 We also create goals for working on the business itself and the tasks necessary for running a company. While the CEO takes on many of these tasks, like accounting and employee benefits, everyone on the team is involved with how we run our business, and  major decisions and changes are discussed, decided, and implemented as a team.
+
+---
+[Next page](05team.md)  
+[Previous page](03history.md)  
+[Table of Contents](../README.md#table-of-contents)

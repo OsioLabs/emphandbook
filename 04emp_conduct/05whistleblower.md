@@ -9,3 +9,8 @@ This policy is designed to protect employees and address Lullabot Education's co
 Negative employment sanctions, such as demotion or termination, as a result of an employee's decision to provide good-faith information regarding violations of the law will not be tolerated. In addition, discrimination, threats, and harassment is prohibited.
 
 Anyone violating this policy will be subject to discipline, up to and including termination of employment.
+
+---
+[Next page](../05emp_status)  
+[Previous page](04disciplinary.md)  
+[Table of Contents](../README.md#table-of-contents)

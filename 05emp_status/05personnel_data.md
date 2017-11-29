@@ -9,3 +9,8 @@ If any of the following have changed or will change in the future, contact the C
 - Change of beneficiary
 - Exemptions on your tax forms
 - Emergency contact(s)
+
+---
+[Next page](06confidentiality.md)  
+[Previous page](04termination.md)  
+[Table of Contents](../README.md#table-of-contents)

@@ -13,3 +13,8 @@ Lullabot Education pays its employees via direct deposit by default, but if you 
 Lullabot Education makes deductions from employee pay only in circumstances permitted by applicable law. This includes, but is not limited to, mandatory deductions for income tax withholding, social security and medical system contributions, as well as voluntary deductions for health insurance premiums, pension plans and other related contributions.
 
 If you believe that an improper deduction has been made from your pay, raise the issue with the CEO immediately, who will promptly investigate. If the investigation reveals that you were subjected to an improper deduction from pay, you will be reimbursed promptly.
+
+---
+[Next page](02leave.md)  
+[Previous page](../03benefits)  
+[Table of Contents](../README.md#table-of-contents)

@@ -13,3 +13,8 @@ The final weekly check-in will be a 1-month review. This is an opportunity to re
 Once you are 90 days in, we expect that you will be well settled into your routine and feeling solid with how we work. You may not have everything nailed down in terms of day-to-day tasks. You probably won't know all the ins-and-outs of your role quite yet. We find that it normally takes someone about 3–6 months to really feel like they are hitting their full stride, which is totally normal and expected.
 
 After 3 months working with the team, we'll have another check-in. This review will take a look at your next 6–12 months. What are your strengths and weaknesses within the context of the team, what gets you excited, how do you want to kick ass, etc.?
+
+---
+[Next page](02first_week.md)  
+[Previous page](04annual_review.md)  
+[Table of Contents](../README.md#table-of-contents)

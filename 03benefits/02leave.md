@@ -107,3 +107,8 @@ The employee is required to return from the unpaid leave on the originally sched
 During unpaid leave current coverage will automatically continue for 6 weeks for Medical, Dental, Vision, Life, and Disability benefits. Beyond 6 weeks of unpaid leave, the employee may choose to continue coverage by paying the full premium amount or discontinue coverage.
 
 During unpaid leave there is no accrual of paid days off (e.g. vacation) or tech stipend (PEX), holidays are not paid, and continuing education benefits are suspended. Time while on leave is counted as service credit in determining eligibility for those benefits that are dependent upon length of service.
+
+---
+[Next page](01pay.md)  
+[Previous page](03insurance.md)  
+[Table of Contents](../README.md#table-of-contents)

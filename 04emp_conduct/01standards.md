@@ -13,3 +13,8 @@ While not intended to be an all-inclusive list, the examples below represent beh
 - Unauthorized disclosure of any confidential information
 
 Other forms of misconduct not listed above may also result in disciplinary action, up to and including termination of employment. If you have questions regarding Lullabot Education's standards of conduct, please direct them to the CEO.
+
+---
+[Next page](02harassment.md)  
+[Previous page](../04emp_conduct)  
+[Table of Contents](../README.md#table-of-contents)

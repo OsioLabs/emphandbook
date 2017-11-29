@@ -9,3 +9,8 @@ In 2015 Lullabot spun off the Drupalize.Me team to create a new company focused 
 “Lullabot” is a combination of the words “lullaby” and “robot.” When Jeff and Matt were naming the original company, they wanted a name that combined Jeff’s background in music and Matt’s background in Zen with the technical work that they were both doing. They wanted a name that juxtaposed organic, emotional, and human elements with the digital, mechanical, logical work. With Jeff’s background in music and design, he also wanted something that was iconic and “looked good on a t-shirt.” The happy sleeping robot logo was born at the same time as the name and, sure enough, our t-shirts, stickers, and temporary tattoos have been popular with adults and kids alike. The name reminds us to have fun and not take ourselves too seriously.
 
 Lullabot Education simply extended this by emphasizing the educational aspect of our work, while keeping the underlying spirit of Lullabot.
+
+---
+[Next page](04structure.md)  
+[Previous page](02values.md)  
+[Table of Contents](../README.md#table-of-contents)

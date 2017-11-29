@@ -59,3 +59,8 @@ The coverage will pay up to 60% of covered weekly earnings (up to $2,308 per wee
 Employees who are injured on the job at Lullabot Education are eligible for Workers' Compensation benefits. Such benefits cover any injury or illness sustained in the course of employment that requires medical treatment. We have workers' compensation policies in place is all countries where we have employees.
 
 All job-related accidents or illnesses must be reported to the CEO immediately upon occurrence. The CEO will then immediately contact the appropriate source, based on country, to obtain the required claim forms and instructions.
+
+---
+[Next page](02leave.md)  
+[Previous page](04retirement.md)  
+[Table of Contents](../README.md#table-of-contents)

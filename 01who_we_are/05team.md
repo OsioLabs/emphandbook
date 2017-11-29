@@ -51,3 +51,8 @@ Lullabot Education is owned by 3 people. They are also owners of Lullabot, makin
 
 ## Board
 The board consists of the 3 owners, listed above; the Lullabot Education CEO, Addison Berry; and Zack Rosen, CEO at Pantheon.
+
+---
+[Next page](../02welcome)  
+[Previous page](04structure.md)  
+[Table of Contents](../README.md#table-of-contents)

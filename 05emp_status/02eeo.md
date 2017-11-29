@@ -9,3 +9,8 @@ Lullabot Education strongly urges the reporting of all instances of discriminati
 Lullabot Education shall fully comply with the non-discrimination requirements of the Americans with Disabilities Act and relevant state statutes that prohibit discriminating against applicants and individuals with disabilities. This policy covers all aspects of employment, including application procedures, hiring, advancement, termination, compensation, training, or other terms, conditions and privileges of employment. 
 
 Provided it will not create undue hardship, Lullabot Education will offer reasonable accommodations to applicants and employees who are qualified for a job, with or without reasonable accommodation, so that they may perform the essential job duties of the position. Contact the CEO with any questions or requests for accommodation.
+
+---
+[Next page](03immigration.md)  
+[Previous page](01nature_of_emp.md)  
+[Table of Contents](../README.md#table-of-contents)

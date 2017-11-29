@@ -18,3 +18,8 @@ Sexual harassment may include a range of behaviors and may involve individuals o
 - Verbal sexual advances or propositions
 - Physical conduct that includes touching, assaulting, or impeding or blocking movements
 - Any other visual, verbal, or physical conduct or behavior deemed inappropriate by the company
+
+---
+[Next page](03compalints.md)  
+[Previous page](01standards.md)  
+[Table of Contents](../README.md#table-of-contents)

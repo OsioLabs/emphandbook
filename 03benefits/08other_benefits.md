@@ -6,3 +6,8 @@ We can travel a lot, depending on roles and needs. Lullabot Education will cover
 
 ## Activity tracker
 Lullabot Education provides each employee with an activity tracker (FitBit, Garmin Vivo*, Misfit, etc.). We do a lot of sitting at Lullabot Education so we want to encourage everyone to get out and stretch your legs. To get your device of choice, contact the CEO.
+
+---
+[Next page](07travel_budget.md)  
+[Previous page](../04emp_conduct)  
+[Table of Contents](../README.md#table-of-contents)
