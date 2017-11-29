@@ -17,5 +17,5 @@ If you are a U.S. citizen and you're thinking of moving abroad for a period long
 
 ---
 [Next page](02first_week.md)  
-[Previous page](01distributed.md)  
+[Previous page](../02welcome)  
 [Table of Contents](../README.md#table-of-contents)
