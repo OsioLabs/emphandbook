@@ -109,6 +109,6 @@ During unpaid leave current coverage will automatically continue for 6 weeks for
 During unpaid leave there is no accrual of paid days off (e.g. vacation) or tech stipend (PEX), holidays are not paid, and continuing education benefits are suspended. Time while on leave is counted as service credit in determining eligibility for those benefits that are dependent upon length of service.
 
 ---
-[Next page](01pay.md)  
-[Previous page](03insurance.md)  
+[Next page](03insurance.md)  
+[Previous page](01pay.md)  
 [Table of Contents](../README.md#table-of-contents)

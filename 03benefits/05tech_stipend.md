@@ -26,6 +26,6 @@ Here are common examples that you can use the stipend to purchase. If you aren't
 All Lullabot Education requires in return for the monthly tech stipend is that you have insurance on your laptop (typically covered by homeowner's or renter's policies -- you can ask your insurance representative for the details). You can also purchase coverage through companies like Safeware (http://safeware.com). Please send the policy title page to the CEO to file.
 
 ---
-[Next page](04retirement.md)  
-[Previous page](06education.md)  
+[Next page](06education.md)  
+[Previous page](04retirement.md)  
 [Table of Contents](../README.md#table-of-contents)

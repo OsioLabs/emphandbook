@@ -8,6 +8,6 @@ Travel budgets are to be used to pay for transportation, lodging, and food (not 
 The Marketing and CE budgets are both shared pools of money with a fixed total budget per year (not per person). When you wish to have the company pay for travel, you will need to submit a request to the team which includes the budget to draw from, the estimated cost, and the benefit the trip will provide for you and the company. Most educational travel will also require some kind of “deliverable” after travel. This can be sharing notes of things learned, writing a blog post for the site, or something else determined before travel.
 
 ---
-[Next page](06education.md)  
-[Previous page](08other_benefits.md)  
+[Next page](08other_benefits.md)  
+[Previous page](06education.md)  
 [Table of Contents](../README.md#table-of-contents)

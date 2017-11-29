@@ -5,6 +5,6 @@ Our retirement plan is a defined-contribution 401(k) plan in the U.S. (or equiva
 Employees may consult with our representatives and refer to plan documents for more details. U.S. plans are provided by Principal.
 
 ---
-[Next page](03insurance.md)  
-[Previous page](05tech_stipend.md)  
+[Next page](05tech_stipend.md)  
+[Previous page](03insurance.md)  
 [Table of Contents](../README.md#table-of-contents)

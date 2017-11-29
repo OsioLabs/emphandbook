@@ -6,6 +6,6 @@ The following section lists Lullabot Education's benefits and describes each. If
 For our U.S. employees we have partnered with Insperity to provide payroll and employee benefits. This means that for the U.S. folks Insperity will handle most of your employee paperwork and serve as the support system for your benefits plans.
 
 ---
-[Next page](../02welcome/06getting_started.md)  
-[Previous page](01pay.md)  
+[Next page](01pay.md)  
+[Previous page](../02welcome/06getting_started.md)  
 [Table of Contents](../README.md#table-of-contents)

@@ -6,6 +6,6 @@ In compliance with the Immigration Reform and Control Act of 1986, as amended, e
 Similar documents for international employees will be requested as needed. 
 
 ---
-[Next page](02eeo.md)  
-[Previous page](04termination.md)  
+[Next page](04termination.md)  
+[Previous page](02eeo.md)  
 [Table of Contents](../README.md#table-of-contents)

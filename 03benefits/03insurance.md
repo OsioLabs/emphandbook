@@ -61,6 +61,6 @@ Employees who are injured on the job at Lullabot Education are eligible for Work
 All job-related accidents or illnesses must be reported to the CEO immediately upon occurrence. The CEO will then immediately contact the appropriate source, based on country, to obtain the required claim forms and instructions.
 
 ---
-[Next page](02leave.md)  
-[Previous page](04retirement.md)  
+[Next page](04retirement.md)  
+[Previous page](02leave.md)  
 [Table of Contents](../README.md#table-of-contents)
