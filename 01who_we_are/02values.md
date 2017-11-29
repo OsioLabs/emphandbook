@@ -35,5 +35,5 @@ We work hard to serve our customers well. We meet them where they are, and we be
 
 ---
 [Next page](03history.md)  
-[Previous page](01what_we_do.md.md)  
+[Previous page](01what_we_do.md)  
 [Table of Contents](../README.md#table-of-contents)
