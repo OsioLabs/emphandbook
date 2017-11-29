@@ -8,6 +8,6 @@ Good quality goals have the following attributes: specific, measurable, achievab
 At the end of the day, goals are just a ruler for us to define and measure success, but they're not the only one. They're also completely optional. If you'd like to go through a goal-setting exercise, ask the CEO.
 
 ---
-[Next page](04annual_review.md)  
-[Previous page](06getting_started.md)  
+[Next page](06getting_started.md)  
+[Previous page](04annual_review.md)  
 [Table of Contents](../README.md#table-of-contents)
