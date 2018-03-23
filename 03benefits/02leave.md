@@ -44,6 +44,18 @@ We offer everyone 10 paid holidays. To enable everyone to celebrate with their f
 - Juledag - December 25
 - Anden Juledag - December 26
 
+### United Kingdom (England)
+
+- New Year’s Day - January 1
+- Good Friday - Friday before Easter Sunday
+- Easter Monday - Monday after Easter Sunday
+- Early May Bank Holiday - First Monday in May
+- Spring Bank Holiday - Last Monday in May
+- Summer Bank Holiday - Last Monday in August
+- Days of the Dragonborn - November 26 and 27
+- Christmas Day - December 25
+- Boxing Day - December 26
+
 ## Flexible work week
 A full-time work week at Lullabot Education is 40 hours. You are always able to take advantage of flex time by lengthening or shortening individual days to accommodate your workload and external needs. You just need to communicate alterations to your normal work times to the team as they occur.
 
