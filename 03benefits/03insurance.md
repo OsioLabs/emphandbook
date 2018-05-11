@@ -1,5 +1,7 @@
+We offer several forms of insurance for our employees: medical (health, dental, and vision), life, and disability. Health insurance is only available to full-time employees, while life and disability are available to all employees.
+
 # Health Insurance
-Lullabot Education's health insurance benefits are intended to protect you and your family from financial loss resulting from hospital, surgical, or other health-related expenses. Eligible employees may elect to begin health insurance benefits on the first day of employment. 
+Lullabot Education's health insurance benefits are intended to protect you and your family from financial loss resulting from hospital, surgical, or other health-related expenses. Eligible employees may elect to begin health insurance benefits on the first day of employment. Note that only full-time employees are eligible for health insurance.
 
 *Note that this section specifically applies to U.S. employees. Danish employees already have state-provided health care. Extended health insurance for Danish employees can be provided if required. Contact the CEO to discuss extended options.*
 
@@ -44,16 +46,16 @@ An employee's continuation of coverage may be cut short for any of the following
 - You become entitled to Medicare.
  
 # Life Insurance
-An important facet of your benefits at Lullabot Education is your life insurance. Eligible employees may elect to take this $50,000 policy coverage. Employees may also purchase additional protection at preferred rates, above and beyond what is covered by Lullabot Education.
+An important facet of your benefits at Lullabot Education is your life insurance. We provide a policy that will match your annual salary up to $50,000. Eligible employees may elect to take this coverage. Employees may also purchase additional protection, above and beyond what is covered by Lullabot Education.
 
-Eligible employees may elect to begin life insurance benefits on the first day of employment. Upon attaining eligibility for Lullabot Education life insurance coverage, employees will be asked to designate a beneficiary. You may request a change in beneficiary at any time.
+Full-time employees may elect to begin life insurance benefits on the first day of employment. Part-time employees will need to work on a personal plan with the CEO, to be started as soon as possible after employment. Upon attaining eligibility for Lullabot Education life insurance coverage, employees will be asked to designate a beneficiary. You may request a change in beneficiary at any time.
 
-For additional details, U.S. employees should refer to the Insperity coverage documents, and non-U.S. employees should contact the CEO.
+For additional details, full-time U.S. employees should refer to the Insperity coverage documents, and part-time and non-U.S. employees should contact the CEO.
 
 # Disability Insurance
 If you suffer an injury or medical condition that makes you unfit for work for more than 2 weeks, you may be eligible for disability coverage. Lullabot Education provides, and pays 100% of the premium for, short and long-term disability insurance.
 
-The coverage will pay up to 60% of covered weekly earnings (up to $2,308 per week) and begins on the 15th day of disability.
+The coverage for full-time employees will pay up to 60% of covered weekly earnings (up to $2,308 per week) and begins on the 15th day of disability. Part-time employees will receive a personal plan, so coverage may vary.
 
 # Workers' Compensation
 Employees who are injured on the job at Lullabot Education are eligible for Workers' Compensation benefits. Such benefits cover any injury or illness sustained in the course of employment that requires medical treatment. We have workers' compensation policies in place is all countries where we have employees.
