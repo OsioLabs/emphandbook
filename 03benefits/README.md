@@ -5,6 +5,9 @@ The following section lists Lullabot Education's benefits and describes each. If
 ## Wait, what's Insperity?
 For our U.S. employees we have partnered with Insperity to provide payroll and employee benefits. This means that for the U.S. folks Insperity will handle most of your employee paperwork and serve as the support system for your benefits plans.
 
+## Full-time and part-time
+The many of our benefits apply equally to both full- and part-time employees, but not all do. A full-time employee works 30 or more hours per week on average, while part-time employees work 20 hours a week on average. Where benefits are different based on number of hours worked, this will be indicated in the benefit using the terms full-time and part-time. If there is no reference made to the status of hours, then the benefit applies to all employees.
+
 ## Summary of benefits
 This is a quick overview of the main benefits we offer. You will find details for each of these in the rest of this section of the handbook.
 
