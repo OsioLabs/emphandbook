@@ -17,7 +17,7 @@ We provide 5 weeks (25 days) of paid vacation and 10 paid holidays per year (bas
 
 **[Insurance](https://github.com/LullabotEducation/emphandbook/blob/master/03benefits/03insurance.md)**
 
-We provide medical, dental, and vision coverage in the US, and will arrange for equivalent coverage in other countries as needed. We also pay for $50,000 life insurance coverage, and you may elect to take more. Our disability plan goes into effect if you are unfit for work for more than 2 weeks and will cover 60% of your salary.
+We provide medical, dental, and vision coverage in the U.S. for full-time employees, and will arrange for equivalent coverage in other countries as needed. We also pay for up to $50,000 life insurance coverage for all employees, and you may elect to take more. Our full-time disability plan goes into effect if you are unfit for work for more than 2 weeks and will cover 60% of your salary. We also pay for part-time employee personal disability plans.
 
 **[Retirement](https://github.com/LullabotEducation/emphandbook/blob/master/03benefits/04retirement.md)**
 
@@ -25,11 +25,11 @@ We have 401(k) plans set up in the US, and will match up to 4% of your own retir
 
 **[Tech and Office Stipend](https://github.com/LullabotEducation/emphandbook/blob/master/03benefits/05tech_stipend.md)**
 
-We give you $200 per month, tax free, for buying office equipment (computers, desks, cell phones, etc.) and software for work.
+We give you $200 (full-time) or $100 (part-time) per month, tax free, for buying office equipment (computers, desks, cell phones, etc.) and software for work.
 
 **[Education](https://github.com/LullabotEducation/emphandbook/blob/master/03benefits/06education.md)**
 
-Everyone gets $1000 per year to spend on education expenses of your choice. This does not need to be directly related to your work, and covers courses, conferences, books, etc. Through Insperity, US employees can also use up to $1500 per year on college tuition and $500 per year of continuing education expenses. (Non-US employees can work out a similar plan, as needed.)
+Everyone gets a budget to spend on education expenses of your choice, $1000 per year for full-time employees and $500 per year for part-time employees. This does not need to be directly related to your work, and covers courses, conferences, books, etc. Through Insperity, US employees may also use up to $1500 per year on college tuition and $500 per year of continuing education expenses. (Non-US employees can work out a similar plan, as needed.)
 
 **[Travel](https://github.com/LullabotEducation/emphandbook/blob/master/03benefits/07travel_budget.md)**
 
