@@ -27,11 +27,6 @@ North America Central Standard/Daylight (CST/CDT)
 ## Part-time Contractors
 We have a number of long-term, part-time contractors who assist with important work in the company.
 
-[Charlie Morrissey](https://drupalize.me/team/charlie-morrissey)   
-Customer Support  
-Torquay, UK  
-Greenwich Mean/British Summer (GMT/BST)
-
 Enid Williams  
 Copy Editor  
 McFarland, WI, USA  
