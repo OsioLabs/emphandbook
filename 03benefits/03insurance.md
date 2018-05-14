@@ -55,7 +55,7 @@ For additional details, full-time U.S. employees should refer to the Insperity c
 # Disability Insurance
 If you suffer an injury or medical condition that makes you unfit for work for more than 2 weeks, you may be eligible for disability coverage. Lullabot Education provides, and pays 100% of the premium for, short and long-term disability insurance.
 
-The coverage for full-time employees will pay up to 60% of covered weekly earnings (up to $2,308 per week) and begins on the 15th day of disability. Part-time employees will receive a personal plan, so coverage may vary.
+The coverage for full-time employees will pay up to 60% of covered weekly earnings (up to $2,308 per week) and begins on the 15th day of disability. Coverage for part-time employees will vary and depends on your personalized plan.
 
 # Workers' Compensation
 Employees who are injured on the job at Lullabot Education are eligible for Workers' Compensation benefits. Such benefits cover any injury or illness sustained in the course of employment that requires medical treatment. We have workers' compensation policies in place is all countries where we have employees.
