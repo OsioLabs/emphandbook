@@ -1,6 +1,6 @@
 # Tech Stipend
 
-Lullabot Education provides an allowance of $200 each month for technology and office purchases, made available to you through pre-paid PEX cards. You can go to [http://www.pexcard.com](http://www.pexcard.com) to read more about how the cards work, but here are the basics:
+Lullabot Education provides an allowance of $200 each month for full-time employees and $100 each month for part-time employees for technology and office purchases, made available to you through pre-paid PEX cards. You can go to [http://www.pexcard.com](http://www.pexcard.com) to read more about how the cards work, but here are the basics:
 
 - PEX Cards are pre-paid VISA cards, and should be accepted anywhere in the world that a VISA logo is shown. (Note: it uses a U.S. address and so may not work in all locations outside the U.S.)
 - Your balance rolls over from month to month, so you can save up your stipend over time for larger purchases.
