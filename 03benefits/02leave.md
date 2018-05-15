@@ -47,7 +47,7 @@ We offer everyone 10 paid holidays. To enable everyone to celebrate with their f
 - Anden Juledag - December 26
 
 ## Flexible work week
-A full-time work week at Lullabot Education is 40 hours. You are always able to take advantage of flex time by lengthening or shortening individual days to accommodate your workload and external needs. You just need to communicate alterations to your normal work times to the team as they occur.
+You are always able to take advantage of flex time by lengthening or shortening individual days to accommodate your workload and external needs. You just need to communicate alterations to your normal work times to the team as they occur.
 
 In addition to regular flex time, you may also opt to choose a different structure to your regular, recurring work week. For instance, you could choose to work longer days (10 hours per day) Monday–Thursday and then have every Friday off. Any structural changes to your work week need to be discussed with the team and will still need to accommodate being present for regular phone calls and other regular weekly obligations.
 
@@ -56,7 +56,7 @@ Welcoming a new child to your home is an amazing and joyous occasion! We would l
  
 Parental leave is available for both the birth of your own child and the placement of a child due to adoption or foster care. This policy will run concurrently with the legal requirements of each country, with the [U.S. Family Medical Leave Act (FMLA)](http://www.dol.gov/dol/topic/benefits-leave/fmla.htm) for U.S. employees. At the end of your leave, you will return to your job or an equivalent with the same salary, benefits, working conditions and seniority.
  
-Full-time employees who have been with the company for six months or more are eligible for the following:
+Employees who have been with the company for six months or more are eligible for the following:
 
 - Six weeks time off, fully paid
 - Six weeks additional time off, unpaid
@@ -78,7 +78,7 @@ Bereavement leave provides paid time off for eligible employees in the event of 
 
 Eligible employees are entitled to 3 days paid time off for a death in the immediate family. Lullabot Education understands the deep impact that death can have on an individual or a family. Therefore, additional unpaid time off may be granted at the company's discretion. Such arrangements must be approved by the CEO.
 
-All regular, full-time employees may take up to 1 day off with pay to attend the funeral of a close, non-family member. This time off will be considered by the CEO on a case-by-case basis.
+All employees may take up to 1 day off with pay to attend the funeral of a close, non-family member. This time off will be considered by the CEO on a case-by-case basis.
 
 To be eligible for paid time off for bereavement, employees should notify the CEO at the earliest opportunity so that the CEO can arrange coverage for the employee's absence.
 
