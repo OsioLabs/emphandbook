@@ -9,7 +9,7 @@ Paid time off is paid at your base pay rate at the time of the absence. It does 
 Work-related accidents and illness are covered by Workers' Compensation Insurance, pursuant to the requirements of the laws in the U.S. state(s) in which Lullabot Education operates. The paid time off policy outlined here does not apply to those illnesses or injuries that are covered by an applicable Workers' Compensation policy.
 
 ### Vacation
-All full-time employees in the company receives 5 weeks (25 days or 200 hours) of paid vacation time. This is intended to only be truly used for vacations (see PD below for things like sick leave). You earn 2.083 days (16.67 hours) of vacation for each month you have worked. Vacation time is "use it or lose it." You must use all 25 days by the end of the calendar year. If you were to leave the company at any time during the year you could either be entitled to a payout of the vacation you earned but did not use, or a withholding if you used more vacation than you had accrued.
+All full-time employees in the company receive 5 weeks (25 days or 200 hours) of paid vacation time. This is intended to only be truly used for vacations (see PD below for things like sick leave). You earn 2.083 days (16.67 hours) of vacation for each month you have worked. Vacation time is "use it or lose it." You must use all 25 days by the end of the calendar year. If you were to leave the company at any time during the year you could either be entitled to a payout of the vacation you earned but did not use, or a withholding if you used more vacation than you had accrued.
 
 Part-time employees receive half the amount of leave in total hours (100 instead of 200), which provides 5 weeks (25 4-hour days) of paid vacation time.
 
