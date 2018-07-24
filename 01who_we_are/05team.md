@@ -14,6 +14,11 @@ Production Manager and Trainer
 Portland, OR, USA  
 North America Pacific Standard/Daylight (PST/PDT)
 
+[Ashley Jones](https://drupalize.me/team/ashley-jones)  
+People Support  
+Houston, TX, USA  
+North America Central Standard/Daylight (CST/CDT)
+
 [Blake Hall](https://drupalize.me/team/blake-hall)  
 Senior  Developer and Trainer  
 Green Bay, WI, USA  
