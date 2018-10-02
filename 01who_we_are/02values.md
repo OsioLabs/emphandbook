@@ -1,7 +1,7 @@
 # Goals and Values
 Our long-term vision is to change online learning for web development, making it more effective and accessible for everyone. This includes crafting content and tools that ease learning, as well as addressing barriers that deny people access to learning resources.
 
-Part of achieving our vision is creating a company where great things can happen. We are an [open books company](https://www.forbes.com/sites/petercarbonara/2017/04/18/what-small-business-owners-need-to-know-about-open-book-management/#3fcfeb44432a) and we are very transparent with all aspects of our business, from the daily work everyone is doing to the financial forecast for the coming year. We do this so that everyone at the company understands how our business works and their impact on it. All employees are involved in businesses decisions at some level.
+Part of achieving our vision is creating a company where great things can happen. We are an [open books company](https://www.forbes.com/sites/petercarbonara/2017/04/18/what-small-business-owners-need-to-know-about-open-book-management/#3fcfeb44432a) and we are very transparent with all aspects of our business, from the daily work everyone is doing to the financial forecast for the coming year. We do this so that everyone at the company understands how our business works and their impact on it. All employees are involved in business decisions at some level.
 
 We take our core values very seriously. They're the underpinning for what we do, and more importantly, how we do it. Every major company decision and goal is measured against our values. 
 
