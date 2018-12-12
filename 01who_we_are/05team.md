@@ -50,7 +50,7 @@ Lullabot Education is owned by 3 people. They are also owners of Lullabot, makin
 - [Seth Brown](https://www.lullabot.com/about/seth-brown), Secretary
 
 ## Board
-The board consists of the 3 owners, listed above; the Lullabot Education CEO, Addison Berry; and Zack Rosen, CEO at Pantheon.
+The board consists of the 3 owners, listed above; the Osio Labs CEO, Addison Berry; and Zack Rosen, CEO at Pantheon.
 
 ---
 [Next page](../02welcome)  
