@@ -18,7 +18,7 @@ As a team, occasionally along with external contractors, we fix bugs, do updates
 Our marketing efforts include managing our advertising, event sponsorships, brand consistency, and public communication.
 
 ### Support
-We use a service called ZenDesk, which provides a support management system, where we track all customer support requests. Email sent to our public emails and social media mentions are directed to our support site, which then creates a ticket for us. We have a primary support manager and all full-time Lullabot Education staff are expected to answer questions as secondary support.
+We use a service called ZenDesk, which provides a support management system, where we track all customer support requests. Email sent to our public emails and social media mentions are directed to our support site, which then creates a ticket for us. We have a primary support manager and all full-time staff are expected to answer questions as secondary support.
 
 ### Business
 We also create goals for working on the business itself and the tasks necessary for running a company. While the CEO takes on many of these tasks, like accounting and employee benefits, everyone on the team is involved with how we run our business, and  major decisions and changes are discussed, decided, and implemented as a team.
