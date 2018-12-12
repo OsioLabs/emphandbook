@@ -2,7 +2,7 @@
 Our team uses a variety of different communication methods and tools in order to collaborate with one another. This section covers the essentials you'll want to focus on initially, and the other tools and processes will fall into place as you go.
 
 ## Communication
-Effective and ongoing communication within Lullabot Education is essential. As a distributed company, there's not a way to just "show up" without communicating it. The better communication tools you have, the better you'll be able to do your work. One important aspect of our communication is to document our decisions. We often hash things out in phone conversations or Slack chats, and those are hard to track down later or for others to be aware of if they weren't involved. Whenever we have a decision on a topic that affects the whole company or others on the team, it should be recorded in a more permanent medium. Often this can be an email to the entire team, but it may also make more sense to record decisions in GitHub tickets or Trello cards if they are about active tasks. 
+Effective and ongoing communication within Osio Labs is essential. As a distributed company, there's not a way to just "show up" without communicating it. The better communication tools you have, the better you'll be able to do your work. One important aspect of our communication is to document our decisions. We often hash things out in phone conversations or Slack chats, and those are hard to track down later or for others to be aware of if they weren't involved. Whenever we have a decision on a topic that affects the whole company or others on the team, it should be recorded in a more permanent medium. Often this can be an email to the entire team, but it may also make more sense to record decisions in GitHub tickets or Trello cards if they are about active tasks. 
 
 Here is an overview of the main tools we use and how we use them.
 
@@ -13,9 +13,9 @@ Online Meetings | Google Hangouts and Skype| Used regularly for internal team di
 Group Chat | Slack | Usually passive, except when directly reaching out to a teammate. Also used as the virtual "water cooler."
 
 ### Email
-We have several email addresses within the Lullabot Education team. The main email to reach everyone is the "team" email group. We use this liberally. You can see a list of all email groups and who is in them in the Operations Manual.
+We have several email addresses within the Osio Labs team. The main email to reach everyone is the "team" email group. We use this liberally. You can see a list of all email groups and who is in them in the Operations Manual.
 
-On Monday morning the CEO sends an email to the team with the subject “This Week in Lullabot Education.” This email will include any notable information about the coming week, the main topics for the weekly team call, and a quick list of anyone who is out of the office (OOO) or traveling that week. This is normally for informational purposes only, but if you have anything to add or correct, please respond to the whole team.
+On Monday morning the CEO sends an email to the team with the subject “This Week in Osio Labs.” This email will include any notable information about the coming week, the main topics for the weekly team call, and a quick list of anyone who is out of the office (OOO) or traveling that week. This is normally for informational purposes only, but if you have anything to add or correct, please respond to the whole team.
 
 As a team we like to know what everyone is working on and how things are going. Once a week you should complete and email a “five-fifteen” report ([http://515.lullabot.com](http://515.lullabot.com)), which is a standardized report for updating us on what’s going on. You may choose to use the linked website, or simply send an email where you answer those questions or ones similar to them (you will see that different team members use slightly different questions). If using the website list, in addition to the standard five-fifteen questions, you will also need to add a task list of the things you will be tackling in the coming week. This email should be sent to the entire team every Monday. 
 
