@@ -1,5 +1,5 @@
 # Your First 90 Days
-The first 90 days with Lullabot Education are your "introductory period" where we get to know each other and evaluate if this is a good fit on both sides. You'll settle into your roles and get your own personal work environment running smoothly.
+The first 90 days with Osio Labs are your "introductory period" where we get to know each other and evaluate if this is a good fit on both sides. You'll settle into your roles and get your own personal work environment running smoothly.
 
 ## Workload
 As you get more comfortable with your roles on the team, you will be better able to determine your workload in a given week. We do not set or track your time, and you are responsible for distributing your workload as needed to get your tasks done. As a team, we try to make priorities clear and then let people dive into the work in the way that they feel best serves the company priorities. When you are unclear where to focus your energy, it is your responsibility to raise a hand and ask the team for guidance.
