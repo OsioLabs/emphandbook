@@ -6,9 +6,9 @@ You'll start out on your first day with paperwork, of course. You'll also famili
 
 We try to spread the information overload throughout the week. You'll be introduced to different aspects of the company, and your roles, one at a time over several days. Your first week will include phone calls specific to your roles and our weekly all-team call, as well as a chat with our Insperity representative if you are a U.S. resident, which is our U.S. payroll and benefit provider. You'll also have a check-in at the end of the week to debrief and take stock of how your first week went and any adjustments we need to make. As always, if you have questions or requests, feel free to ask!
 
-## Your Lullabuddy
+## Your Buddy
 
-When you start, you'll be assigned a buddy on the team. We call this person your Lullabuddy. You should feel free to ask this person any and all questions you may have—even the "dumb" ones! They'll check in with you periodically for your first month at Lullabot Education. This person is here to make you feel comfortable and less confused as you start. Seriously... ask them anything. "How do you people keep up with all this email?" "Is it okay if I take a walk while I'm on the team call?" "What's up with all of the Taylor Swift references?" The more you can understand about the company and your coworkers, the better you'll be at your job.
+When you start, you'll be assigned a buddy on the team. You should feel free to ask this person any and all questions you may have—even the "dumb" ones! They'll check in with you periodically for your first month at Osio Labs. This person is here to make you feel comfortable and less confused as you start. Seriously... ask them anything. "How do you people keep up with all this email?" "Is it okay if I take a walk while I'm on the team call?" "What's up with all of the Taylor Swift references?" The more you can understand about the company and your coworkers, the better you'll be at your job.
 
 ---
 [Next page](03first_90_days.md)  
