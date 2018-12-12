@@ -2,7 +2,7 @@
 
 We are a distributed company, meaning that everyone works from home or wherever they like. We are spread over 4 countries and many time zones. You can read more about each person in their bios, linked to their name below. Here is a list of the current team, along with their location and time zone. This is definitely important information to have handy in a distributed team.
 
-## Full-time Staff
+## Staff
 
 [Addison Berry](https://drupalize.me/team/addison-berry)  
 CEO  
