@@ -42,6 +42,11 @@ Video Editor
 Rome, Italy  
 Central European/Summer (CET/CEST)
 
+Philippa Stasiuk
+Marketing Coordinator
+Lincoln, NE, USA
+North America Central Standard/Daylight (CST/CDT)
+
 ## Ownership
 Lullabot Education is owned by 3 people. They are also owners of Lullabot, making us a sister company to Lullabot.
 
