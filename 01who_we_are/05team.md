@@ -42,9 +42,9 @@ Video Editor
 Rome, Italy  
 Central European/Summer (CET/CEST)
 
-Philippa Stasiuk
-Marketing Coordinator
-Lincoln, NE, USA
+Philippa Stasiuk  
+Marketing Coordinator  
+Lincoln, NE, USA  
 North America Central Standard/Daylight (CST/CDT)
 
 ## Ownership
