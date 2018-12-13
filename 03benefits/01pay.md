@@ -7,10 +7,10 @@ Regular salary adjustments are based on annual performance reviews conducted on 
 ## Paydays
 U.S. employees are paid on a semi-monthly basis (the 15th and last day of each month). Danish employees are paid on the last day of each month. In the event that a regularly scheduled payday falls on a weekend, employees will be paid on the business day preceding the weekend, unless otherwise required by state or national law.
 
-Lullabot Education pays its employees via direct deposit by default, but if you prefer to receive physical checks this is an option for U.S. employees. You will be provided with log-in information to view your pay stubs and tax information online. If you would like to have your pay stubs mailed to you, contact the CEO and/or Insperity.
+Osio Labs pays its employees via direct deposit by default, but if you prefer to receive physical checks this is an option for U.S. employees. You will be provided with log-in information to view your pay stubs and tax information online. If you would like to have your pay stubs mailed to you, contact the CEO and/or Insperity.
 
 ## Payroll deductions
-Lullabot Education makes deductions from employee pay only in circumstances permitted by applicable law. This includes, but is not limited to, mandatory deductions for income tax withholding, social security and medical system contributions, as well as voluntary deductions for health insurance premiums, pension plans and other related contributions.
+Osio Labs makes deductions from employee pay only in circumstances permitted by applicable law. This includes, but is not limited to, mandatory deductions for income tax withholding, social security and medical system contributions, as well as voluntary deductions for health insurance premiums, pension plans and other related contributions.
 
 If you believe that an improper deduction has been made from your pay, raise the issue with the CEO immediately, who will promptly investigate. If the investigation reveals that you were subjected to an improper deduction from pay, you will be reimbursed promptly.
 
