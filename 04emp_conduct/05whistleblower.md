@@ -1,5 +1,5 @@
 # Whistleblower Protection
-This policy is designed to protect employees and address Lullabot Education's commitment to integrity and ethical behavior. In accordance with Whistleblower Protection regulations, Lullabot Education will not tolerate harassment, retaliation, or any type of discrimination against an employee who:
+This policy is designed to protect employees and address Osio Labs' commitment to integrity and ethical behavior. In accordance with Whistleblower Protection regulations, Osio Labs will not tolerate harassment, retaliation, or any type of discrimination against an employee who:
 
 - Makes a good faith complaint regarding suspected Company or employee violations of the law.
 - Makes a good faith complaint regarding accounting, internal accounting controls, or auditing matters that may lead to incorrect—or misrepresentations in—financial accounting.
