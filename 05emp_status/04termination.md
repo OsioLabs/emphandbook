@@ -22,7 +22,7 @@ Please consider the following points as you're thinking about giving your notice
 
 Are you quitting because you're unhappy, unfulfilled, or you're feeling frustrated?
 
-We strive to provide a variety of opportunities for Lullabot employees. We want to find the right fit for everyone and we're willing to shift people around if their current roles and tasks aren't working.
+We strive to provide a variety of opportunities for Osio Labs employees. We want to find the right fit for everyone and we're willing to shift people around if their current roles and tasks aren't working.
 
 ### Unhappy? Talk to someone
 First and foremost, we want happy team members. If there is anything we can do to keep/create your happiness, please let us know. If you are worried about confidentiality, the CEO and/or the Insperity HR specialits are available anytime to listen and/or to help provide advice and coaching. 
@@ -37,9 +37,9 @@ Knowing when your last day is helps us plan for your and Osio Labs' future. We c
 #### Last paycheck details
 We will provide for you the details of your last paycheck, and when to expect it (varies by state). Your last paycheck could include: any PTO owed/deducted, a $1 PEX withholding (as per the PEX policy), and any reimbursements due.
 #### Turn in your "keys"
-Please mail any Lullabot Education property/documents to the Providence office and destroy your Lullabot Education credit card.
+Please mail any Osio Labs property/documents to the Providence office and destroy your Osio Labs credit card.
 #### Exit interview
-Upon leaving the company, Lullabot Education would love to hear your feedback. The CEO will contact you for an exit interview.
+Upon leaving the company, Osio Labs would love to hear your feedback. The CEO will contact you for an exit interview.
 
 Please be reminded of the contract and other NDA terms as they relate to termination.
 
