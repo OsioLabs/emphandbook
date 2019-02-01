@@ -6,8 +6,10 @@ We are a distributed company, meaning that everyone works from home or wherever 
 
 [Addison Berry](https://drupalize.me/team/addison-berry)  
 CEO  
-Copenhagen, Denmark    
-Central European/Summer (CET/CEST)
+Copenhagen, Denmark (April–December)    
+Central European/Summer (CET/CEST)    
+Oaxaca de Juárez, Oax, Mexico (January–March)    
+North America Central Standard/Daylight (CST/CDT)
 
 [Amber Himes Matz](https://drupalize.me/team/amber-matz)  
 Production Manager and Trainer  
