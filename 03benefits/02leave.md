@@ -6,7 +6,7 @@ There are multiple forms of paid days off. Vacation time and personal days (PD) 
 
 Paid time off is paid at your base pay rate at the time of the absence. It does not include overtime or any special forms of compensation such as incentives, commissions, or bonuses. It may be used in minimum increments of one-half day. Employees with an unexpected need (i.e. sudden illness or emergency) for a personal day should notify the CEO as early as possible.
 
-Work-related accidents and illness are covered by Workers' Compensation Insurance, pursuant to the requirements of the laws in the U.S. state(s) in which Lullabot Education operates. The paid time off policy outlined here does not apply to those illnesses or injuries that are covered by an applicable Workers' Compensation policy.
+Work-related accidents and illness are covered by Workers' Compensation Insurance, pursuant to the requirements of the laws in the U.S. state(s) in which Osio Labs operates. The paid time off policy outlined here does not apply to those illnesses or injuries that are covered by an applicable Workers' Compensation policy.
 
 ### Vacation
 All full-time employees in the company receive 5 weeks (25 days or 200 hours) of paid vacation time. This is intended to only be truly used for vacations (see PD below for things like sick leave). You earn 2.083 days (16.67 hours) of vacation for each month you have worked. Vacation time is "use it or lose it." You must use all 25 days by the end of the calendar year. If you were to leave the company at any time during the year you could either be entitled to a payout of the vacation you earned but did not use, or a withholding if you used more vacation than you had accrued.
@@ -61,7 +61,7 @@ Employees who have been with the company for six months or more are eligible for
 - Six weeks time off, fully paid
 - Six weeks additional time off, unpaid
 - Vacation can be used in place of any unpaid leave
-- If both parents are employees of Lullabot Education, they are limited to a combined total of 12 weeks leave.
+- If both parents are employees of Osio Labs, they are limited to a combined total of 12 weeks leave.
  
 You must notify the CEO of your desire to use this leave, and formulate a plan for the days you will take off, a minimum of 60 days prior to the planned arrival date so that we can plan accordingly.
 
@@ -76,21 +76,21 @@ Bereavement leave provides paid time off for eligible employees in the event of 
 - Grandchild
 - Sibling
 
-Eligible employees are entitled to 3 days paid time off for a death in the immediate family. Lullabot Education understands the deep impact that death can have on an individual or a family. Therefore, additional unpaid time off may be granted at the company's discretion. Such arrangements must be approved by the CEO.
+Eligible employees are entitled to 3 days paid time off for a death in the immediate family. Osio Labs understands the deep impact that death can have on an individual or a family. Therefore, additional unpaid time off may be granted at the company's discretion. Such arrangements must be approved by the CEO.
 
 All employees may take up to 1 day off with pay to attend the funeral of a close, non-family member. This time off will be considered by the CEO on a case-by-case basis.
 
 To be eligible for paid time off for bereavement, employees should notify the CEO at the earliest opportunity so that the CEO can arrange coverage for the employee's absence.
 
 ## Jury duty
-Lullabot Education encourages employees to fulfill their civic responsibilities by serving jury duty when required. Lullabot Education will pay regular salary for the first 3 days of jury duty, and after that jury duty will be paid only if required by applicable state or national law.
+Osio Labs encourages employees to fulfill their civic responsibilities by serving jury duty when required. Osio Labs will pay regular salary for the first 3 days of jury duty, and after that jury duty will be paid only if required by applicable state or national law.
 
 If requested, we will work with the employee to determine an appropriate strategy for compensation during jury duty. Solutions may include the use of PD, an unpaid leave of absence, 50% pay, or some combination.
 
 Please be sure to communicate your jury duty requirements with the CEO as they arise.
 
 ## Military leave
-Lullabot Education grants employees time off of work for service in the uniformed services in accordance with the U.S. Uniformed Services Employment and Reemployment Rights Act (USERRA).
+Osio Labs grants employees time off of work for service in the uniformed services in accordance with the U.S. Uniformed Services Employment and Reemployment Rights Act (USERRA).
 
 All employees requesting time off for military service must provide advance notice of military service to the CEO, unless military necessity prevents such notice or it is otherwise impossible or unreasonable. Continuation of health insurance benefits is available during military leave subject to the terms and conditions of the group health plan and applicable law.
 
@@ -101,7 +101,7 @@ Employees who qualify for reemployment will return to active employment at a pay
 Questions regarding this policy should be directed to the CEO.
 
 ## Unpaid leave
-All regular employees employed for a minimum of 90 days are eligible to apply for an unpaid personal leave of absence. Employees must exhaust all paid time off before taking unpaid leave. To apply, you should submit a request in writing to the CEO. Requests for unpaid personal leave may be denied or granted for any reason. Lullabot Education reserves the right to terminate employment for any reason during the leave of absence.
+All regular employees employed for a minimum of 90 days are eligible to apply for an unpaid personal leave of absence. Employees must exhaust all paid time off before taking unpaid leave. To apply, you should submit a request in writing to the CEO. Requests for unpaid personal leave may be denied or granted for any reason. Osio Labs reserves the right to terminate employment for any reason during the leave of absence.
 
 The employee is required to return from the unpaid leave on the originally scheduled return date. If the employee is unable to return, he or she must request an extension of the leave in writing. If and extension of leave is declined, the employee must then return to work on the originally scheduled return date or be considered to have voluntarily resigned from his or her employment.
 

@@ -1,11 +1,8 @@
-# Lullabot Education Handbook
-This handbook will introduce you to <a href="http://lullaboteducation.com/">Lullabot Education</a>, providing insight into our values in addition to giving you an overview of our benefits and policies. It also covers some orientation for how things will happen in the first few months of employment and points to the most important tools and processes to focus on for a new employee. This handbook is not the sum total of all of the documentation for the company. We have an extensive operations manual that explains how to do a huge range of tasks and fills in details that are missing here.
+# Osio Labs Handbook
+This handbook will introduce you to <a href="https://osiolabs.com/">Osio Labs</a> (formally Lullabot Education), providing insight into our values in addition to giving you an overview of our benefits and policies. It also covers some orientation for how things will happen in the first few months of employment and points to the most important tools and processes to focus on for a new employee. This handbook is not the sum total of all of the documentation for the company. We have an extensive operations manual that explains how to do a huge range of tasks and fills in details that are missing here.
 
 ## Publicly Accessible
 In 2017 we decided to make our employee handbook publicly accessible through GitHub. The general public is free to read, fork, and file issues and pull requests (PRs). If you find mistakes or have questions, let us know! We are sharing our handbook for a couple of reasons. First, we have a culture of sharing and we encourage people to take away anything useful from our handbook. Secondly, we feel this gives more insight into the company we are, how we approach our work, and view our team. While this is critical for new employees, we also think it is important for our customers, partners, and anyone we interact with to understand.
-
-## Lullabot Education versus Lullabot
-It is important to note that [Lullabot Education](http://lullaboteducation.com/) is a separate company from our sibling, [Lullabot](http://lullabot.com/). (You can read more about that in our [Company History](01who_we_are/03history.md).) This handbook, while heavily influenced by our previous existence as part of Lullabot, does not apply to Lullabot in any way.
 
 ## Changes in Policy
 Company change is inevitable. Therefore, we expressly reserve the right to interpret, modify, suspend, cancel, or dispute, all or any part of our policies, procedures, and benefits at any time, with or without prior notice. Changes will be effective on the dates determined by Lullabot Education. After those dates all superseded policies will be null and void.

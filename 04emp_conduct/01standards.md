@@ -1,5 +1,5 @@
 # Standards of Conduct
-Lullabot Education's rules and standards of conduct are essential to our productive work environment. All employees must familiarize themselves with company rules and standards; all employees will be held to them. Any employee who disregards or deviates from company rules or standards may be subject to disciplinary action, up to and including termination of employment.
+Osio Labs' rules and standards of conduct are essential to our productive work environment. All employees must familiarize themselves with company rules and standards; all employees will be held to them. Any employee who disregards or deviates from company rules or standards may be subject to disciplinary action, up to and including termination of employment.
 
 While not intended to be an all-inclusive list, the examples below represent behavior that is considered unacceptable in our work environment, whether online or in person:
 
@@ -12,7 +12,7 @@ While not intended to be an all-inclusive list, the examples below represent beh
 - Excessive absenteeism
 - Unauthorized disclosure of any confidential information
 
-Other forms of misconduct not listed above may also result in disciplinary action, up to and including termination of employment. If you have questions regarding Lullabot Education's standards of conduct, please direct them to the CEO.
+Other forms of misconduct not listed above may also result in disciplinary action, up to and including termination of employment. If you have questions regarding Osio Labs' standards of conduct, please direct them to the CEO.
 
 ---
 [Next page](02harassment.md)  
