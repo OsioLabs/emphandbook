@@ -82,6 +82,15 @@ All employees may take up to 1 day off with pay to attend the funeral of a close
 
 To be eligible for paid time off for bereavement, employees should notify the CEO at the earliest opportunity so that the CEO can arrange coverage for the employee's absence.
 
+## Paid sabbatical leave
+We offer sabbatical leave as a benefit to encourage our employees to innovate, gain knowledge and pursue their interests (e.g. volunteer, travel, research, write.) It’s one way to reward employees who have been working with us for a long time. We also want to encourage them to rejuvenate and develop their skills. This type of leave is separate from vacation and personal days.
+
+This policy applies to all employees who have been working for our company for at least 10 years. We offer eligible employees 5 weeks of paid leave after their first 10 years of working for our company. You will be eligible to take sabbaticals every 10 years until you retire. Sabbatical leave can be combined with vacation leave to extend time.
+
+Sabbatical leave can’t be accrued. You must use your 5 weeks within 1 year of your 10-year anniversary that triggers the benefit. You must also use all 5 weeks consecutively. You must request your leave dates at least 3 months before you plan to take your sabbatical. Submit leave requests to the CEO.
+
+While you are on a sabbatical leave, your employment status, contract, and benefits (e.g. health insurance, PEX accrual) remain intact.
+
 ## Jury duty
 Osio Labs encourages employees to fulfill their civic responsibilities by serving jury duty when required. Osio Labs will pay regular salary for the first 3 days of jury duty, and after that jury duty will be paid only if required by applicable state or national law.
 
