@@ -4,29 +4,29 @@ We are a distributed company, meaning that everyone works from home or wherever 
 
 ## Staff
 
-[Addison Berry](https://drupalize.me/team/addison-berry)  
+[Addison Berry](https://drupalize.me/team/addison-berry) she/her  
 CEO  
 Copenhagen, Denmark (April–December)    
 Central European/Summer (CET/CEST)    
 Oaxaca de Juárez, Oax, Mexico (January–March)    
 North America Central Standard/Daylight (CST/CDT)
 
-[Amber Himes Matz](https://drupalize.me/team/amber-matz)  
+[Amber Himes Matz](https://drupalize.me/team/amber-matz) she/her  
 Production Manager and Trainer  
 Portland, OR, USA  
 North America Pacific Standard/Daylight (PST/PDT)
 
-[Ashley Jones](https://drupalize.me/team/ashley-jones)  
+[Ashley Jones](https://drupalize.me/team/ashley-jones) she/her  
 People Support  
 Houston, TX, USA  
 North America Central Standard/Daylight (CST/CDT)
 
-[Blake Hall](https://drupalize.me/team/blake-hall)  
+[Blake Hall](https://drupalize.me/team/blake-hall) he/him  
 Senior  Developer and Trainer  
 Green Bay, WI, USA  
 North America Central Standard/Daylight (CST/CDT)
 
-[Joe Shindelar](https://drupalize.me/team/joe-shindelar)  
+[Joe Shindelar](https://drupalize.me/team/joe-shindelar) he/him  
 Lead Developer, Lead Trainer  
 Minneapolis, MN, USA  
 North America Central Standard/Daylight (CST/CDT)
@@ -44,7 +44,7 @@ Video Editor
 Rome, Italy  
 Central European/Summer (CET/CEST)
 
-Philippa Stasiuk  
+Philippa Stasiuk she/her  
 Marketing Coordinator  
 Lincoln, NE, USA  
 North America Central Standard/Daylight (CST/CDT)
