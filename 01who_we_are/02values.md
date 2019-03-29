@@ -7,31 +7,72 @@ We take our core values very seriously. They're the underpinning for what we do,
 
 **Do great work**
 
-We value craftsmanship and set high standards for our work. We're proud of the clear, well-crafted products we create, as well as our professional demeanor.
+We value craftsmanship and set high standards for our work. We encourage each other to strive for those standards, helping each person grow, and make sure that we deliver a quality product for our customers and the larger open source community we are a part of.
+
+Some examples of this value in action are:
+
+- Our regular process of peer review for our code and content, where we provide feedback and encourage for improvement.
+- Contributing our standard high quality videos for free to enhance the Drupal community documentation.
 
 **Feed creativity**
 
-Creativity creates space for innovative ideas and inventive solutions. We embrace the full creative process, which includes failing, learning, and trying again.
+Creativity creates space for innovative ideas and inventive solutions. We embrace the full creative process, which includes failing, learning, and trying again, while providing a safe and respectful environment. We are open to the whole breadth of creative change, and are not afraid to change existing things as well as creating something new. Through openly sharing our new ideas in the wider world we aim to also foster creativity in others.
+
+Some examples of this value in action are:
+
+- We have new ideas for how to deliver our content, from written tutorials to new hands-on project guides. Each time it started with a new idea, often based on customer feedback, putting the idea out there, and then continuing to iterate to fix failings and make improvements.
+- We re-evaluated our entire business strategy and ended up expanding our business model and changing the company name. 
+
 
 **Spread happiness**
 
-We believe in the power of happiness. We encourage playfulness, positivity, and kindness in everything we do.
+We believe in the power of happiness. We encourage playfulness, positivity, and kindness in everything we do. We try not to take ourselves too seriously and recognize that being approachable and kind makes learning more fun and less stressful. We are also aware of the impact our attitude has on the people around us and that impact spreads far beyond our personal and professional interactions.
+
+Some examples of this value in action are:
+
+- Creating fun examples in our learning materials, like the ice cream shop example for learning plugins or the batman cartoon for events.
+- Fun stickers! Our sparkly Drupal ponies continue to be a favorite even today.
+
 
 **Work together**
 
-We keep open minds and listen to each other to find common ground and consensus. We support and help each other in ways that make our entire team stronger.
+We believe in Open Source, not only in open software but also in the principles of collaboration and sharing. We fully engage with Open Source communities through contribution and have incorporated these fundamentals throughout our company. We keep open minds and listen to each other to find common ground and improve each other’s work without judgment. We apply these same principles when working with our customers to solve their problems.
+
+Some examples of this value in action are:
+
+- Sharing our Employee Handbook publicly
+- Collaborating on the Drupal 8 User Guide and sharing our enhancements (adding videos)
+
 
 **Build trust**
 
-We build trust through openness, respect, and forgiveness. We treat each other like adults and genuinely care for people. We value our distributed work environment, and we trust our colleagues to make the best use of that flexibility to cultivate the best life balance for them.
+We build trust through openness, respect, and forgiveness. We treat people like adults and genuinely care for them, whether they are part of our team, our customer, or part of the wider world. We take promises seriously and deliver on them both internally and externally. We value our distributed work environment, and we trust our colleagues to make the best use of that flexibility to cultivate the best life balance for them.
+
+Some examples of this value in action are:
+
+- PEX and company credit cards; we trust people to purchase the things they need and give them freedom to do so.
+- We have a very liberal refund policy so that customers can decide what works for them.
+
 
 **Empower people**
 
-We learn by sharing our knowledge, and we help others do the same. We strive to create a space that empowers everyone to be and do what they want.
+We strive to create a space that empowers everyone. We encourage growth and exploration, with a culture of sharing and support for change. We give people the power to make choices about how to meet their needs and to change things about our company. We share as we learn, both with technology and business, to encourage others and assist with the lessons we’ve learned. 
+
+Some examples of this value in action are:
+
+- In addition to technical training information we encourage people to understand and use the wider array of tools that the open source community provides. 
+- We empower employees to be better for family (parent, spouse, child) by giving them the flexibility to be there when and how they need to be.
+
 
 **Care for our customers**
 
-We work hard to serve our customers well. We meet them where they are, and we believe that being aware of, and responsive to, our customers’ needs is an integral part of what we do.
+We work hard to serve our customers well. We meet them where they are, and we believe that being aware of and responsive to our customers’ needs is an integral part of what we do. We give customers control over how they want to learn and support them on that journey, even if it doesn’t involve our products.
+
+Some examples of this value in action are:
+
+- Talking to Node.js developers to learn more about what they want in a learning platform and then using that to inform what content we’re creating.
+- We keep our content up to date and get fixes published as quickly as possible when a problem is pointed out.
+
 
 ---
 [Next page](03history.md)  
