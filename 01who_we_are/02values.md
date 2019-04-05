@@ -16,22 +16,23 @@ Some examples of this value in action are:
 
 **Feed creativity**
 
-Creativity creates space for innovative ideas and inventive solutions. We embrace the full creative process, which includes failing, learning, and trying again, while providing a safe and respectful environment. We are open to the whole breadth of creative change, and are not afraid to change existing things as well as creating something new. Through openly sharing our new ideas in the wider world we aim to also foster creativity in others.
+Creativity creates space for innovative ideas and inventive solutions. We embrace the full creative process, which includes failing, learning, and trying again, in a safe and respectful environment. We are open to creative change and are not afraid to change existing things as well as creating something new. Through openly sharing our new ideas in the wider world we aim to also foster creativity in others.
 
 Some examples of this value in action are:
 
-- We have new ideas for how to deliver our content, from written tutorials to new hands-on project guides. Each time it started with a new idea, often based on customer feedback, putting the idea out there, and then continuing to iterate to fix failings and make improvements.
-- We re-evaluated our entire business strategy and ended up expanding our business model and changing the company name. 
+- We explore new ideas for how to deliver our content, from written tutorials to new hands-on project guides. Ideas start from customer feedback and result in features like the ability to access a pre-made site sandbox to avoid customers needing to set up a new site.
+- We re-evaluated our business strategy and decided to change the company name to better reflect our vision. 
 
 
 **Spread happiness**
 
-We believe in the power of happiness. We encourage playfulness, positivity, and kindness in everything we do. We try not to take ourselves too seriously and recognize that being approachable and kind makes learning more fun and less stressful. We are also aware of the impact our attitude has on the people around us and that impact spreads far beyond our personal and professional interactions.
+We believe in the power of happiness. We encourage playfulness, positivity, and kindness in everything we do. We try not to take ourselves too seriously and recognize that being approachable and kind makes learning more fun and less stressful. We are  aware of the impact our attitude has on the people around us and that impact spreads far beyond our personal and professional interactions.
 
 Some examples of this value in action are:
 
 - Creating fun examples in our learning materials, like the ice cream shop example for learning plugins or the batman cartoon for events.
 - Fun stickers! Our sparkly Drupal ponies continue to be a favorite even today.
+- We respond to customer support timely and cheerfully, even the grumpy ones. We're human too, and we get that people have bad days. We like to try to make them a little better when we can.
 
 
 **Work together**
@@ -46,7 +47,7 @@ Some examples of this value in action are:
 
 **Build trust**
 
-We build trust through openness, respect, and forgiveness. We treat people like adults and genuinely care for them, whether they are part of our team, our customer, or part of the wider world. We take promises seriously and deliver on them both internally and externally. We value our distributed work environment, and we trust our colleagues to make the best use of that flexibility to cultivate the best life balance for them.
+We build trust through openness, respect, and forgiveness. We treat people like equals and genuinely care for them, whether they are part of our team, our customer, or part of the wider world. We take promises seriously and deliver on them both internally and externally. We value our distributed work environment, and we trust our colleagues to make the best use of that flexibility to cultivate the best life balance for them.
 
 Some examples of this value in action are:
 
@@ -61,7 +62,7 @@ We strive to create a space that empowers everyone. We encourage growth and expl
 Some examples of this value in action are:
 
 - In addition to technical training information we encourage people to understand and use the wider array of tools that the open source community provides. 
-- We empower employees to be better for family (parent, spouse, child) by giving them the flexibility to be there when and how they need to be.
+- We empower employees to be better for their family (parent, spouse, child) by giving them the flexibility to be there when and how they need to be.
 
 
 **Care for our customers**
