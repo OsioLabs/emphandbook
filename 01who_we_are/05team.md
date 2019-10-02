@@ -17,9 +17,9 @@ Portland, OR, USA
 North America Pacific Standard/Daylight (PST/PDT)
 
 [Ashley Jones](https://drupalize.me/team/ashley-jones) (she/her)  
-People Support  
-Houston, TX, USA  
-North America Central Standard/Daylight (CST/CDT)
+Technical Support  
+Los Angeles, CA, USA  
+North America Pacific Standard/Daylight (PST/PDT)
 
 [Blake Hall](https://drupalize.me/team/blake-hall) (he/him)  
 Senior  Developer and Trainer  
@@ -33,7 +33,7 @@ North America Central Standard/Daylight (CST/CDT)
 
 Jon Church (he/him)  
 Node Specialist  
-Hobe Beach, FL, USA  
+Gainesville, FL, USA  
 North America Eastern Standard/Daylight (EST/EDT)
 
 Philippa Stasiuk (she/her)  
