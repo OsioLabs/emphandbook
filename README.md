@@ -5,7 +5,7 @@ This handbook will introduce you to <a href="https://osiolabs.com/">Osio Labs</a
 In 2017 we decided to make our employee handbook publicly accessible through GitHub. The general public is free to read, fork, and file issues and pull requests (PRs). If you find mistakes or have questions, let us know! We are sharing our handbook for a couple of reasons. First, we have a culture of sharing and we encourage people to take away anything useful from our handbook. Secondly, we feel this gives more insight into the company we are, how we approach our work, and view our team. While this is critical for new employees, we also think it is important for our customers, partners, and anyone we interact with to understand.
 
 ## Changes in Policy
-Company change is inevitable. Therefore, we expressly reserve the right to interpret, modify, suspend, cancel, or dispute, all or any part of our policies, procedures, and benefits at any time, with or without prior notice. Changes will be effective on the dates determined by Lullabot Education. After those dates all superseded policies will be null and void.
+Company change is inevitable. Therefore, we expressly reserve the right to interpret, modify, suspend, cancel, or dispute, all or any part of our policies, procedures, and benefits at any time, with or without prior notice. Changes will be effective on the dates determined by Osio Labs. After those dates all superseded policies will be null and void.
 
 No individual has the authority to alter the foregoing. Any employee who is unclear on any policy or procedure should consult with the CEO.
 
