@@ -12,5 +12,5 @@ Anyone violating this policy will be subject to discipline, up to and including 
 
 ---
 [Next page](../05emp_status)  
-[Previous page](04disciplinary.md)  
+[Previous page](05disciplinary.md)  
 [Table of Contents](../README.md#table-of-contents)

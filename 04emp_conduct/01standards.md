@@ -15,6 +15,6 @@ While not intended to be an all-inclusive list, the examples below represent beh
 Other forms of misconduct not listed above may also result in disciplinary action, up to and including termination of employment. If you have questions regarding Osio Labs' standards of conduct, please direct them to the CEO.
 
 ---
-[Next page](02harassment.md)  
+[Next page](02diversity.md)  
 [Previous page](../04emp_conduct)  
 [Table of Contents](../README.md#table-of-contents)

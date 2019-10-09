@@ -6,6 +6,6 @@ Discipline is decided on a case-by-case basis. Generally on the first incident w
 Osio Labs recognizes that certain types of employee behavior are serious enough to justify termination of employment, without enacting other disciplinary action first.
 
 ---
-[Next page](05whistleblower.md)  
-[Previous page](03complaints.md)  
+[Next page](06whistleblower.md)  
+[Previous page](04complaints.md)  
 [Table of Contents](../README.md#table-of-contents)
