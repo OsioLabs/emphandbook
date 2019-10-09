@@ -8,6 +8,6 @@ After receiving a complaint, we may hold a meeting with the employee and any oth
 Osio Labs expressly prohibits retaliation against any individual who reports discrimination or harassment, or assists in investigating such charges. Any form of retaliation is considered a direct violation of this policy and, like discrimination or harassment itself, will be subject to disciplinary action, up to and including termination of employment.
 
 ---
-[Next page](04disciplinary.md)  
-[Previous page](02harassment.md)  
+[Next page](05disciplinary.md)  
+[Previous page](03harassment.md)  
 [Table of Contents](../README.md#table-of-contents)
