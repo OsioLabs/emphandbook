@@ -10,7 +10,7 @@ We believe that individual perspectives provided by a wide range of lived experi
 In Kim Crayton’s 2018 article titled , [“Diversity” and “inclusion” aren’t interchangeable. Here’s how to use them correctly](https://qz.com/work/1328942/what-is-diversity-a-practical-definition/amp/), she defines diversity as variety and inclusion as experience. (The article is well-worth a read as she defines and elaborates several terms used here.) For a discussion of diversity and inclusion in the workplace, you can also watch this 17-minute video, [Practical diversity: taking inclusion from theory to practice](https://www.youtube.com/watch?v=ExcDNly1DbI) presented by Dawn Bennett-Alexander.  
 
 ## Our commitment
-While our team does have some diversity, we recognize that building a diverse and inclusive workplaces requires continued effort and is never ‘done’. We are committed to specifically seeking out diverse candidates and continually learning how to improve the environment we provide. 
+While our team does have some diversity, we recognize that building a diverse and inclusive workplace requires continued effort and is never ‘done’. We are committed to specifically seeking out diverse candidates and continually learning how to improve the environment we provide. 
 
 Ways we encourage inclusion at Osio Labs:
 
