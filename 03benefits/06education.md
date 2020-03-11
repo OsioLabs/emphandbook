@@ -1,6 +1,6 @@
 # Personal Education Budget
 
-Each full-time employee will have $1000 per year to spend on educational needs or $500 per year for part-time employees. This can include books, event registrations, online courses, local workshops, college courses, etc. The budget will expire and restart at the beginning of each year. If you do not use the entire $1000, then any remaining balance will be zeroed out and a new $1000 budget will take its place.
+Each full-time employee will have $1000 per year to spend on educational needs or $500 per year for part-time employees. This can include books, event registrations, online courses, local workshops, college courses, etc. Education expenses must be related to your job in some way in order for us to provide this benefit in a non-taxable way for you. The budget will expire and restart at the beginning of each year. If you do not use the entire $1000, then any remaining balance will be zeroed out and a new $1000 budget will take its place.
 
 In addition to this internal budget, U.S. employees may also have access to Insperity’s Education Assistance Program:
 
