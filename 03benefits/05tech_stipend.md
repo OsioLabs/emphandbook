@@ -20,7 +20,7 @@ Here are common examples that you can use the stipend to purchase. If you aren't
 - Routers
 - Backup drives
 - Office desk and/or chair
-- Replacement fitness tracker (once per year)
+- Fitness tracker or smartwatch
 
 ## Laptop coverage
 All Osio Labs requires in return for the monthly tech stipend is that you have insurance on your laptop (typically covered by homeowner's or renter's policies -- you can ask your insurance representative for the details). You can also purchase coverage through companies like Safeware (http://safeware.com). Please send the policy title page to the CEO to file.
