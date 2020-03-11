@@ -88,7 +88,7 @@ To be eligible for paid time off for bereavement, employees should notify the CE
 ## Paid sabbatical leave
 We offer sabbatical leave as a benefit to encourage our employees to innovate, gain knowledge, and pursue their interests (e.g. volunteer, travel, research, write). It’s one way to reward employees who have been working with us for a long time. We also want to encourage them to rejuvenate and develop their skills. This type of leave is separate from vacation and personal days.
 
-This policy applies to all employees who have been working for our company for at least 10 years. We offer eligible employees 5 weeks of paid leave after their first 10 years of working for our company. You will be eligible to take sabbaticals every 10 years until you retire. Sabbatical leave can be combined with vacation leave to extend time.
+This policy applies to all employees who have been working for our company for at least 7 years. We offer eligible employees 5 weeks of paid leave after their first 7 years of working for our company. You will be eligible to take sabbaticals every 7 years until you retire. Sabbatical leave can be combined with vacation leave to extend time.
 
 Sabbatical leave can’t be accrued. You must use your 5 weeks within 1 year of the anniversary that triggers the benefit. You must also use all 5 weeks consecutively. You must request your leave dates at least 3 months before you plan to take your sabbatical. Submit leave requests to the CEO.
 
