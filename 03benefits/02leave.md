@@ -23,11 +23,17 @@ Personal days are used for the "un-fun" things in life that are not covered by t
 When you are attending a work-related conference or event, you are considered out of the office (OOO) on business travel, but you are expected to check, and be responsive to, email at least twice a day. If you don’t wish to check email or deal with any work-related issues during the conference, you can use vacation time to be fully OOO.
 
 ## Holidays
-We offer everyone 10 paid holidays. To enable everyone to celebrate with their friends and family, we recognize the public holidays that are specific to where our employees live and work. Employees are able to switch any of their holidays to another day if needed. To switch out holidays, please email your request to the team.
+We offer everyone 11 paid holidays. To enable everyone to celebrate with their friends and family, we recognize the public holidays that are specific to where our employees live and work. Employees are able to switch any of their holidays to another day if needed. To switch out holidays, please email your request to the team.
+
+### Company-wide
+
+- New Year’s Day/Nytår - January 1
+- Juneteenth/Frigørelse - June 19
+- Christmas Eve/Juleaften - December 24
+- Christmas Day/Juledag - December 25
 
 ### United States
 
-- New Year’s Day - January 1
 - Martin Luther King, Jr. Day - third Monday in January
 - Presidents Day - third Monday in February
 - Memorial Day - fourth Monday in May
@@ -35,18 +41,13 @@ We offer everyone 10 paid holidays. To enable everyone to celebrate with their f
 - Labor Day - first Monday in September
 - Thanksgiving Day - fourth Thursday in November
 - Black Friday - fourth Friday in November
-- Christmas Eve - December 24
-- Christmas Day - December 25
 
 ### Denmark
 
-- Nytår - January 1
 - Påskeuge - Thursday, Friday, and Monday around Easter Sunday
 - Storebededag - fourth Friday after Easter
 - Kristihimmelfartsdag - 39 days after Easter
 - Pinsedag - 7 weeks after Easter
-- Juleaften - December 24
-- Juledag - December 25
 - Anden Juledag - December 26
 
 ## Flexible work week
