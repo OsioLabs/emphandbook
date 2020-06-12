@@ -23,7 +23,7 @@ Personal days are used for the "un-fun" things in life that are not covered by t
 When you are attending a work-related conference or event, you are considered out of the office (OOO) on business travel, but you are expected to check, and be responsive to, email at least twice a day. If you don’t wish to check email or deal with any work-related issues during the conference, you can use vacation time to be fully OOO.
 
 ## Holidays
-We offer everyone 10 paid holidays. To enable everyone to celebrate with their friends and family, we recognize the public holidays that are specific to where our employees live and work. Employees are able to switch any of their holidays to another day if needed. To switch out holidays, please email your request to the team.
+We offer everyone 11 paid holidays. To enable everyone to celebrate with their friends and family, we recognize the public holidays that are specific to where our employees live and work. Employees are able to switch any of their holidays to another day if needed. To switch out holidays, please email your request to the team.
 
 ### Company-wide
 
