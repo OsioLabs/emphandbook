@@ -31,11 +31,6 @@ Lead Developer, Lead Trainer
 Minneapolis, MN, USA  
 North America Central Standard/Daylight (CST/CDT)
 
-Jon Church (he/him)  
-Node Specialist  
-Gainesville, FL, USA  
-North America Eastern Standard/Daylight (EST/EDT)
-
 Philippa Stasiuk (she/her)  
 Marketing Coordinator  
 Lincoln, NE, USA  
