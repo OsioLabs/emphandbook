@@ -57,7 +57,7 @@ Some examples of this value in action are:
 
 **Empower people**
 
-We strive to create a space that empowers everyone. We encourage growth and exploration, with a culture of sharing and support for change. We give people the power to make choices about how to meet their needs and to change things about our company. We share as we learn, both with technology and business, to encourage others and assist with the lessons we’ve learned. 
+We strive to create a space that empowers everyone. We encourage growth and exploration, with a culture of sharing and support for change. We give people the power to make choices about how to meet their needs and to change things about our company. We share as we learn, both with technology and business, to encourage others and assist with the lessons we’ve learned. We strive to ensure that opportunites for growth are provided equitably. (See also our committment to [diversity and inclusion](https://github.com/OsioLabs/emphandbook/blob/master/04emp_conduct/02diversity.md).)
 
 Some examples of this value in action are:
 
