@@ -74,7 +74,7 @@ Our resources are somewhat scattered. It can be a bit overwhelming. Here is a qu
 
   We use Zendesk to manage all support and sales tickets. If someone asks you a support question directly, you should forward it to Zendesk to keep everything centralized.
 
-  ---
+---
 [Next page](../03benefits)  
 [Previous page](05setting_goals.md)  
 [Table of Contents](../README.md#table-of-contents)
