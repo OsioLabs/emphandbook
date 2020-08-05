@@ -15,7 +15,7 @@ The proposal should consist of:
 - A clear goal that is achieveable in 4 weeks
 - An outline for how the 4 weeks will be spent (planning, research, implementation, etc.)
 - A list of deliverables (e.g. working prototype, 4 blog posts, strategy document, etc.)
-- Proposed timeframe (find a time where your general absence will not negatively effect the company)
+- Proposed timeframe (find a time where your general absence will not negatively affect the company)
 
 Proposals will be reviewed by the team and discussed on a team call. The final approval and scheduling will be done by the CEO.
 
