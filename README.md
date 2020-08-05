@@ -24,6 +24,7 @@ No individual has the authority to alter the foregoing. Any employee who is uncl
     * [Annual Reviews](02welcome/04annual_review.md)
     * [Setting Goals](02welcome/05setting_goals.md)
     * [Getting Started](02welcome/06getting_started.md)
+    * [Personal Projects](02welcome/07personal_projects.md)
 * [Employee Benefits](03benefits)
     * [Paychecks](03benefits/01pay.md)
     * [Leave](03benefits/02leave.md) 
