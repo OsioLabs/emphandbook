@@ -6,7 +6,7 @@ Once a year you can choose to take 1 month to focus on a work-related project th
 
 In order to pursue a personal project, you will need to propose a project, schedule the time, and provide deliverables. While working on a personal project, that will be your top priority, meaning you do not need to work on other company tasks for that month aside from unblocking other people on the team, if needed. You will still be expected on team calls and to provide weekly email updates on the project. On the team call following the completion of the project time you will present your project and deliverables.
 
-**Proposals**
+## Proposals
 
 Everyone can propose a personal project once per year. All proposals need to be written out, shared with the entire team for review, and they should be submitted at least 2 months prior to the time you wish to do the work. The entirety of the project should be self-contained, with no additional preparatory time or requiring the efforts of others on the team.
 
