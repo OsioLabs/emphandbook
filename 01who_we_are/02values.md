@@ -7,7 +7,7 @@ We take our core values very seriously. They're the underpinning for what we do,
 
 **Do great work**
 
-We value craftsmanship and set high standards for our work. We encourage each other to strive for those standards, helping each person grow, and make sure that we deliver a quality product for our customers and the larger open source community we are a part of.
+We set high standards for ourselves, valuing skillful and impactful work. We encourage each other to strive for those standards and help each other to grow. We make sure that we deliver not only a quality product but also have a positive impact on the world.
 
 Some examples of this value in action are:
 
