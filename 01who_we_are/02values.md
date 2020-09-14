@@ -62,7 +62,7 @@ We strive to create a space that empowers everyone. We encourage growth and expl
 Some examples of this value in action are:
 
 - In addition to technical training information we encourage people to understand and use the wider array of tools that the open source community provides. 
-- We allow employees to determine their own schedules to be there for there families and friends when and how they need to be.
+- We allow employees to determine their own schedules to be their for there families and friends when and how they need to be.
 
 
 **Care for our customers**
