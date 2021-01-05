@@ -31,11 +31,6 @@ Lead Developer, Lead Trainer
 Minneapolis, MN, USA  
 North America Central Standard/Daylight (CST/CDT)
 
-Philippa Stasiuk (she/her)  
-Marketing Coordinator  
-Lincoln, NE, USA  
-North America Central Standard/Daylight (CST/CDT)
-
 ## Part-time Contractors
 We have a number of long-term, part-time contractors who assist with important work in the company.
 
