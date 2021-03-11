@@ -12,7 +12,7 @@ Everyone can propose a personal project once per year. All proposals need to be 
 
 The proposal should consist of:
 
-- A clear goal that is achieveable in 4 weeks
+- A clear goal that is achievable in 4 weeks
 - An outline for how the 4 weeks will be spent (planning, research, implementation, etc.)
 - A list of deliverables (e.g. working prototype, 4 blog posts, strategy document, etc.)
 - Proposed timeframe (find a time where your general absence will not negatively affect the company)
