@@ -45,7 +45,7 @@ Rome, Italy
 Central European/Summer (CET/CEST)
 
 ## Ownership
-Osio Labs is owned by 3 people. They are also owners of Lullabot, making us a sister company to Lullabot.
+Osio Labs is owned by 3 people:
 
 - [Jeff Robbins](https://www.yonder.io/about/), President
 - [Matt Westgate](https://www.lullabot.com/about/matt-westgate), Vice President
