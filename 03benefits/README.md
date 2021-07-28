@@ -29,7 +29,7 @@ We give you $200 (full-time) or $100 (part-time) per month, tax free, for buying
 
 **[Education](https://github.com/LullabotEducation/emphandbook/blob/master/03benefits/06education.md)**
 
-Everyone gets a budget to spend on education expenses of your choice, $1000 per year for full-time employees and $500 per year for part-time employees. This does not need to be directly related to your work, and covers courses, conferences, books, etc. Through Insperity, US employees may also use up to $1500 per year on college tuition and $500 per year of continuing education expenses. (Non-US employees can work out a similar plan, as needed.)
+Everyone gets a budget to spend on education expenses of your choice, $1000 per year for full-time employees and $500 per year for part-time employees. This needs to be related to our work in some way though not necessarily directly related to the work you do on a day-to-day basis. It covers courses, conferences, books, etc. Through Insperity, US employees may also use up to $1500 per year on college tuition and $500 per year of continuing education expenses. (Non-US employees can work out a similar plan, as needed.)
 
 **[Travel](https://github.com/LullabotEducation/emphandbook/blob/master/03benefits/07travel_budget.md)**
 
