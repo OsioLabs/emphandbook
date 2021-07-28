@@ -9,7 +9,7 @@ Here is an overview of the main tools we use and how we use them.
 Type | Resource | Style
 ---|---|---
 Email | Gmail | We use email to codify group decisions, send meeting summaries, and send our individual and project updates. 
-Online Meetings | Google Hangouts and Skype| Used regularly for internal team discussions and one-on-one syncs. Also great for screen sharing.
+Online Meetings | Google Meet and Zoom| Used regularly for internal team discussions and one-on-one syncs. Also great for screen sharing.
 Group Chat | Slack | Usually passive, except when directly reaching out to a teammate. Also used as the virtual "water cooler."
 
 ### Email
@@ -28,7 +28,7 @@ As a team we like to know what everyone is working on and how things are going. 
 The Needs and Assumptions section is important if you are relying on other people to accomplish your tasks in the coming week. Tell us what you are assuming will work or be in place for you to have a successful week, and/or if you have questions you need answered to remove potential blockers. By sending this in the morning on Friday, we all have an opportunity to coordinate our needs and validate assumptions. If there are conflicts in availability or priorities we can have these conversations on Friday or early on Monday, so you can hit the ground running on Monday and know that your runway is clear.
 
 ### Phone Calls and Online Meetings
-We have one recurring, weekly company-wide call that is mandatory for the entire team. This call is every Tuesday at 2pm U.S. Eastern (8pm Central European, 1pm U.S. Central, 11am U.S. Pacific) on our main team Hangout, and is scheduled for 1 hour, though it does not always last that long. This is a dedicated time to discuss company business and general things going on that don’t fit in other calls.
+We have one recurring, weekly company-wide call that is mandatory for the entire team. This call is every Tuesday at 2pm U.S. Eastern (8pm Central European, 1pm U.S. Central, 11am U.S. Pacific) on Zoom, and is scheduled for 1 hour, though it does not always last that long. This is a dedicated time to discuss company business and general things going on that don’t fit in other calls.
 
 Subsets of the team (e.g. trainers, marketing, etc.) have other regularly scheduled calls, and you will be notified of any you are expected to attend.
 
