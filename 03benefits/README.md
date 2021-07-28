@@ -13,7 +13,7 @@ This is a quick overview of the main benefits we offer. You will find details fo
 
 **[Leave](https://github.com/LullabotEducation/emphandbook/blob/master/03benefits/02leave.md)**
 
-We provide 5 weeks (25 days) of paid vacation and 10 paid holidays per year (based on your country of residence). We also offer 6 weeks of paid parental leave, with an optional, additional 6 weeks of unpaid leave. There are other forms of leave as well, including time for bereavement, conference attendance, jury duty, and military service. Personal Days can be used for situations that do not fall under another leave type (e.g. sick days, family need, moving, household emergencies) and these days are unlimited.
+We provide 5 weeks (25 days) of paid vacation and 11 paid holidays per year (based on your country of residence). We also offer 6 weeks of paid parental leave, with an optional, additional 6 weeks of unpaid leave. There are other forms of leave as well, including time for bereavement, conference attendance, jury duty, and military service. Personal Days can be used for situations that do not fall under another leave type (e.g. sick days, family need, moving, household emergencies) and these days are unlimited.
 
 **[Insurance](https://github.com/LullabotEducation/emphandbook/blob/master/03benefits/03insurance.md)**
 
