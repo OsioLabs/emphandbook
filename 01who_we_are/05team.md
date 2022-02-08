@@ -5,7 +5,7 @@ We are a distributed company, meaning that everyone works from home or wherever 
 ## Staff
 
 [Addison Berry](https://drupalize.me/team/addison-berry) (she/her)  
-CEO  
+CEO and Co-owner 
 Copenhagen, Denmark (April–December)    
 Central European/Summer (CET/CEST)    
 Oaxaca de Juárez, Oax, Mexico (January–March)    
@@ -45,14 +45,15 @@ Rome, Italy
 Central European/Summer (CET/CEST)
 
 ## Ownership
-Osio Labs is owned by 3 people:
+Osio Labs is owned by 4 people:
 
 - [Jeff Robbins](https://www.yonder.io/about/), President
 - [Matt Westgate](https://www.lullabot.com/about/matt-westgate), Vice President
 - [Seth Brown](https://www.lullabot.com/about/seth-brown), Secretary
+- [Addison Berry](https://drupalize.me/team/addison-berry), CEO
 
 ## Board
-The board consists of the 3 owners, listed above; the Osio Labs CEO, Addison Berry; and Zack Rosen, CEO at Pantheon.
+The board consists of the 4 owners, listed above, and Zack Rosen, CEO at Pantheon.
 
 ---
 [Next page](../02welcome)  
