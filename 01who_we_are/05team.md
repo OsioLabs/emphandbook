@@ -5,7 +5,7 @@ We are a distributed company, meaning that everyone works from home or wherever 
 ## Staff
 
 [Addison Berry](https://drupalize.me/team/addison-berry) (she/her)  
-CEO and Co-owner 
+CEO and Co-owner  
 Copenhagen, Denmark (April–December)    
 Central European/Summer (CET/CEST)    
 Oaxaca de Juárez, Oax, Mexico (January–March)    
