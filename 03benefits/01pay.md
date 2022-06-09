@@ -1,5 +1,5 @@
-# How Pay Works
-An employee's salary is negotiated at the time of hiring, and any significant changes to this base salary outside of the annual increases outlined below are based on conversations between the employee and CEO.
+# Pay and Hours
+An employee's salary is negotiated at the time of hiring, and any significant changes to this base salary outside of the annual increases outlined below are based on conversations between the employee and CEO. You are expected to work 32 hours per week. The default schedule is to work four 8-hour days each week. (We follow this schedule as long as our business needs are met. There may be times we need to temporarily increase weekly hours or shift back to a 40-hour work week. This kind of decision will be decided as a team and with plenty of advance notice to adjust schedules.)
 
 ## Annual salary increases
 Regular salary adjustments are based on annual performance reviews conducted on or near your original hire date anniversary. Salary increases are solely at the discretion of the CEO and are not guaranteed. Typically, for employees who are performing up to expectations, you will get an increase that is based on a percentage of your existing base salary, in line with average U.S. increase rates and that will normally match or exceed the standard [U.S. SSA Cost of Living Adjustment (COLA) rate](https://www.ssa.gov/oact/cola/colasummary.html) for the current year.
