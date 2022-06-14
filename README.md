@@ -26,7 +26,7 @@ No individual has the authority to alter the foregoing. Any employee who is uncl
     * [Getting Started](02welcome/06getting_started.md)
     * [Personal Projects](02welcome/07personal_projects.md)
 * [Employee Benefits](03benefits)
-    * [Paychecks](03benefits/01pay.md)
+    * [Pay and Hours](03benefits/01pay.md)
     * [Leave](03benefits/02leave.md) 
     * [Insurance](03benefits/03insurance.md)
     * [Retirement Plan](03benefits/04retirement.md)
