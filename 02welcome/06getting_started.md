@@ -17,15 +17,8 @@ We have several email addresses within the Osio Labs team. The main email to rea
 
 On Monday morning the CEO sends an email to the team with the subject “This Week in Osio Labs.” This email will include any notable information about the coming week, the main topics for the weekly team call, and a quick list of anyone who is out of the office (OOO) or traveling that week. This is normally for informational purposes only, but if you have anything to add or correct, please respond to the whole team.
 
-As a team we like to know what everyone is working on and how things are going. Once a week you should complete and email a “five-fifteen” report, which is a standardized report for updating everyone on what’s going on. Everyone on the team sends out a 5:15 every Friday morning. You can use other team members' 5:15s as examples, but you will need to provide the following:
-
-- Recent Successes
-- Things I've Learned Recently
-- Current Challenges
-- Project Updates for next week
-- Needs and Assumptions
-
-The Needs and Assumptions section is important if you are relying on other people to accomplish your tasks in the coming week. Tell us what you are assuming will work or be in place for you to have a successful week, and/or if you have questions you need answered to remove potential blockers. By sending this in the morning on Friday, we all have an opportunity to coordinate our needs and validate assumptions. If there are conflicts in availability or priorities we can have these conversations on Friday or early on Monday, so you can hit the ground running on Monday and know that your runway is clear.
+### 15Five
+As a team we like to know what everyone is working on and how things are going. We use a tool called [15Five](https://www.15five.com/) to share weekly updates with the whole team.
 
 ### Phone Calls and Online Meetings
 We have one recurring, weekly company-wide call that is mandatory for the entire team. This call is every Tuesday at 2pm U.S. Eastern (8pm Central European, 1pm U.S. Central, 11am U.S. Pacific) on Zoom, and is scheduled for 1 hour, though it does not always last that long. This is a dedicated time to discuss company business and general things going on that don’t fit in other calls.
@@ -52,7 +45,7 @@ Our resources are somewhat scattered. It can be a bit overwhelming. Here is a qu
 
 - Github
 
-  Contains code repositories and issue tracking for all of our websites. The canonical version of all written tutorials lives in GitHub as well, and is where creation, review, and updates are made. We publish our sample code for tutorials and workshops, and all of our open-sourced (free) curriculum, on Github as well.
+  Contains code repositories and issue tracking for all of our websites. The canonical version of all written tutorials lives in GitHub as well, and is where creation, review, and updates are made. We publish our sample code for tutorials and workshops, and all of our open-sourced (free) curriculum, on Github as well. The osiolabs.com blog posts are also in GitHub.
   
 - Trello
 
