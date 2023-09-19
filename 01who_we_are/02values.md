@@ -11,7 +11,7 @@ We set high standards for ourselves, valuing skillful and impactful work. We enc
 
 Some examples of this value in action are:
 
-- Our regular process of peer review for our code and content, where we provide feedback and encourage for improvement.
+- Our regular process of peer review for our code and content, where we provide feedback and encourage improvement.
 - Contributing our standard high quality videos for free to enhance the Drupal community documentation.
 
 **Feed creativity**
@@ -26,7 +26,7 @@ Some examples of this value in action are:
 
 **Spread happiness**
 
-We believe in the power of happiness. We encourage playfulness, positivity, and kindness in everything we do. We try not to take ourselves too seriously and recognize that being approachable and kind makes learning more fun and less stressful. We are  aware of the impact our attitude has on the people around us and that impact spreads far beyond our personal and professional interactions.
+We believe in the power of happiness. We encourage playfulness, positivity, and kindness in everything we do. We try not to take ourselves too seriously and recognize that being approachable and kind makes learning more fun and less stressful. We are aware of the impact our attitude has on the people around us and that impact spreads far beyond our personal and professional interactions.
 
 Some examples of this value in action are:
 
