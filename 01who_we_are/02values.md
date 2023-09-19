@@ -21,7 +21,7 @@ Creativity creates space for innovative ideas and inventive solutions. We embrac
 Some examples of this value in action are:
 
 - We explore new ideas for how to deliver our content, from written tutorials to new hands-on project guides. Ideas start from customer feedback and result in features like the ability to access a pre-made site sandbox to avoid customers needing to set up a new site.
-- We re-evaluated our business strategy and decided to change the company name to better reflect our vision. 
+- We re-evaluated our business strategy and decided to change the company name to better reflect our vision.
 
 
 **Spread happiness**
@@ -53,6 +53,7 @@ Some examples of this value in action are:
 
 - PEX and company credit cards; we trust people to purchase the things they need and give them freedom to do so.
 - We have a very liberal refund policy so that customers can decide what works for them.
+- During the 2020 pandemic we reframed our work expectations. You can read more details in the blog post, [Shortening the Work Week Amidst a Pandemic](https://osiolabs.com/blog/shortening-workweek-amidst-pandemic).
 
 
 **Empower people**
