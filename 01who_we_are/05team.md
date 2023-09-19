@@ -11,7 +11,7 @@ Central European/Summer (CET/CEST)
 Oaxaca de Juárez, Oax, Mexico (January–March)    
 North America Central Standard/Daylight (CST/CDT)
 
-[Amber Himes Matz](https://drupalize.me/team/amber-matz) (she/her)  
+[Amber Matz](https://drupalize.me/team/amber-matz) (she/her)  
 Production Manager and Trainer  
 Portland, OR, USA  
 North America Pacific Standard/Daylight (PST/PDT)
