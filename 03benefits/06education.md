@@ -11,6 +11,10 @@ Eligible employees may be reimbursed for qualifying educational expenses as foll
 
 If you wish to travel for educational purposes, see the Travel Budgets section of this handbook.
 
+# Personal Coaching Budget
+
+Each full-time employee will have $2400 per year to spend on professional coaching services (e.g. executive coach, career coach, life coach, etc.) Professional coaching services must be related to your personal and professional goals in the workplace or community at-large. (Note: this budget doesn't cover mental health-related therapy, which is covered under our medical health plan.)
+
 ---
 [Next page](07travel_budget.md)  
 [Previous page](05tech_stipend.md)  
