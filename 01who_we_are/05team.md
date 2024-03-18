@@ -19,28 +19,10 @@ Technical Support
 Los Angeles, CA, USA  
 North America Pacific Standard/Daylight (PST/PDT)
 
-[Blake Hall](https://drupalize.me/team/blake-hall) (he/him)  
-Senior  Developer and Trainer  
-Green Bay, WI, USA  
-North America Central Standard/Daylight (CST/CDT)
-
 [Joe Shindelar](https://drupalize.me/team/joe-shindelar) (he/him)  
 Lead Developer, Lead Trainer  
 Minneapolis, MN, USA  
 North America Central Standard/Daylight (CST/CDT)
-
-## Part-time Contractors
-We have a number of long-term, part-time contractors who assist with important work in the company.
-
-Enid Williams  
-Copy Editor  
-McFarland, WI, USA  
-North America Central Standard/Daylight (CST/CDT)
-
-Francesco Spinucci  
-Video Editor  
-Rome, Italy  
-Central European/Summer (CET/CEST)
 
 ## Ownership
 Osio Labs is owned by 4 people:
@@ -51,7 +33,7 @@ Osio Labs is owned by 4 people:
 - [Addison Berry](https://drupalize.me/team/addison-berry), CEO
 
 ## Board
-The board consists of the 4 owners, listed above, and Zack Rosen, CEO at Pantheon.
+The board consists of the 4 owners listed above.
 
 ---
 [Next page](../02welcome)  
