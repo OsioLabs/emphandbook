@@ -1,9 +1,6 @@
 # Employee Benefits
 
-The following section lists Osio Labs' benefits and describes each. If you have specific questions about a benefit, feel free to email the CEO or our Insperity representative.
-
-## Wait, what's Insperity?
-For our U.S. employees we have partnered with Insperity to provide payroll and employee benefits. This means that for the U.S. folks Insperity will handle most of your employee paperwork and serve as the support system for your benefits plans.
+The following section lists Osio Labs' benefits and describes each. If you have specific questions about a benefit, feel free to email the CEO.
 
 ## Full-time and part-time
 Many of our benefits apply equally to both full- and part-time employees, but not all do. A full-time employee works 30 or more hours per week on average, while part-time employees work 20 hours a week on average. Where benefits are different based on number of hours worked, this will be indicated in the benefit using the terms full-time and part-time. If there is no reference made to the status of hours, then the benefit applies to all employees.
@@ -17,7 +14,7 @@ We provide 5 weeks (25 days) of paid vacation and 11 paid holidays per year (bas
 
 **[Insurance](https://github.com/LullabotEducation/emphandbook/blob/master/03benefits/03insurance.md)**
 
-We provide medical, dental, and vision coverage in the U.S. for full-time employees, and will arrange for equivalent coverage in other countries as needed. We also pay for up to $50,000 life insurance coverage for all employees, and you may elect to take more. Our full-time disability plan goes into effect if you are unfit for work for more than 2 weeks and will cover 60% of your salary. We also pay for part-time employee personal disability plans.
+Due to our size and distribution we cannot provide group insurance plans. To help cover insurance costs we have set up an [Individual Coverage Health Reimbursement Agreement (ICHRA)](https://www.healthcare.gov/job-based-help/ichra/). This allows us to reimburse you for medical expenses tax free, including insurance premiums.
 
 **[Retirement](https://github.com/LullabotEducation/emphandbook/blob/master/03benefits/04retirement.md)**
 
