@@ -119,7 +119,7 @@ All regular employees employed for a minimum of 90 days are eligible to apply fo
 The employee is required to return from the unpaid leave on the originally scheduled return date. If the employee is unable to return, he or she must request an extension of the leave in writing. If and extension of leave is declined, the employee must then return to work on the originally scheduled return date or be considered to have voluntarily resigned from his or her employment.
 
 ### Effect on benefits
-During unpaid leave current coverage will automatically continue for 6 weeks for Medical, Dental, Vision, Life, and Disability benefits. Beyond 6 weeks of unpaid leave, the employee may choose to continue coverage by paying the full premium amount or discontinue coverage.
+During unpaid leave we will continue to reimburse insurance submissions through ICHRA for 6 weeks. Beyond 6 weeks of unpaid leave, the employee will be responsible for covering their own expenses.
 
 During unpaid leave there is no accrual of paid days off (e.g. vacation) or tech stipend (PEX), holidays are not paid, and continuing education benefits are suspended. Time while on leave is counted as service credit in determining eligibility for those benefits that are dependent upon length of service.
 
